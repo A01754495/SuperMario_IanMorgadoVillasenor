@@ -13,7 +13,7 @@ public class MoverPersonaje : MonoBehaviour
     private float velocidadX = 5f;
     private float velocidadY = 7.5f;
     private Rigidbody2D rb;
-    float timerMuerte = 0.0f;
+    private float timerMuerte = 0.0f;
 
     //private EstadoPersonaje estado;
     
@@ -59,6 +59,7 @@ public class MoverPersonaje : MonoBehaviour
             rb.linearVelocityX = 0;
             collider.enabled = false;
             timerMuerte += Time.deltaTime;
+
             //if (timer >= 0.1f)
             //{
             //    //sr.enabled = false;
