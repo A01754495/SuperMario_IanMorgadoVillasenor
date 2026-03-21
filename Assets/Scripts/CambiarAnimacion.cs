@@ -7,7 +7,6 @@ public class CambiarAnimacion : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private EstadoPersonaje estado;
-    private MoverPersonaje mover;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -29,7 +28,7 @@ public class CambiarAnimacion : MonoBehaviour
         //print((float)(rb.linearVelocityX));
 
         // Manejar el FLIP_x
-        sr.flipX = (sr.flipX || rb.linearVelocityX < -0.1) && rb.linearVelocityX <= 0;
+        sr.flipX = (sr.flipX || rb.linearVelocityX < -0.1) && rb.linearVelocityX <= 0; // ni idea de pq funciona pero lo hace
         
 
         // Manejar animación de salto

@@ -10,7 +10,7 @@ public class MoverGoomba : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-        rb.linearVelocityX = -1;
+        rb.linearVelocityX = 1;
         estado = GetComponentInChildren<EstadoGoomba>();
     }
 
@@ -21,9 +21,9 @@ public class MoverGoomba : MonoBehaviour
         {
             rb.linearVelocityX = rb.linearVelocityX * -1;
         }
-        else
-        {
-            rb.linearVelocityX = rb.linearVelocityX;
-        }
+        // else
+        // {
+        //     rb.linearVelocityX = rb.linearVelocityX;
+        // }
     }
 }

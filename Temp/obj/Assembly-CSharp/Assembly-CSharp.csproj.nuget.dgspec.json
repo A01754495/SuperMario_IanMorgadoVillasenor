@@ -1,0 +1,2690 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Assembly-CSharp.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Assembly-CSharp/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Sprite.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Sprite.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Tilemap.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Tilemap.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.ShaderLibrary.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.ShaderLibrary.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Shaders.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Shaders.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.Analytics.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.Analytics.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Sprite.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Sprite.Editor.csproj",
+        "projectName": "Unity.2D.Sprite.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Sprite.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.2D.Sprite.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Tilemap.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Tilemap.Editor.csproj",
+        "projectName": "Unity.2D.Tilemap.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.2D.Tilemap.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.2D.Tilemap.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.Editor.csproj",
+        "projectName": "Unity.Collections.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.Collections.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj",
+        "projectName": "Unity.Collections",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.Collections/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj",
+        "projectName": "Unity.InternalAPIEditorBridge.ShaderGraph.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.InternalAPIEditorBridge.ShaderGraph.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj",
+        "projectName": "Unity.InternalAPIEngineBridge.004",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.InternalAPIEngineBridge.004/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj",
+        "projectName": "Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj",
+        "projectName": "Unity.Multiplayer.Center.Common",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.Multiplayer.Center.Common/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Editor.csproj",
+        "projectName": "Unity.Multiplayer.Center.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.Multiplayer.Center.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Multiplayer.Center.Common.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj",
+        "projectName": "Unity.PathTracing.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.PathTracing.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj",
+        "projectName": "Unity.PathTracing.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.PathTracing.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj",
+        "projectName": "Unity.RenderPipeline.Universal.ShaderLibrary",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipeline.Universal.ShaderLibrary/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj",
+        "projectName": "Unity.RenderPipelines.Core.Editor.Shared",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Core.Editor.Shared/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj",
+        "projectName": "Unity.RenderPipelines.Core.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Core.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj",
+        "projectName": "Unity.RenderPipelines.Core.Runtime.Shared",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Core.Runtime.Shared/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.RenderPipelines.Core.Runtime.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj",
+        "projectName": "Unity.RenderPipelines.Core.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Core.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.ShaderLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.ShaderLibrary.csproj",
+        "projectName": "Unity.RenderPipelines.Core.ShaderLibrary",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.ShaderLibrary.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Core.ShaderLibrary/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj",
+        "projectName": "Unity.RenderPipelines.GPUDriven.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.GPUDriven.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj",
+        "projectName": "Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj",
+        "projectName": "Unity.RenderPipelines.Universal.2D.Editor.Overrides",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Editor.Overrides.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Universal.2D.Editor.Overrides/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj",
+        "projectName": "Unity.RenderPipelines.Universal.2D.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Universal.2D.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj",
+        "projectName": "Unity.RenderPipelines.Universal.Config.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Universal.Config.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Editor.csproj",
+        "projectName": "Unity.RenderPipelines.Universal.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Universal.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.2D.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj",
+        "projectName": "Unity.RenderPipelines.Universal.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Universal.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipeline.Universal.ShaderLibrary.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.Shared.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.GPUDriven.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Config.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Shaders.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Shaders.csproj",
+        "projectName": "Unity.RenderPipelines.Universal.Shaders",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Universal.Shaders.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.RenderPipelines.Universal.Shaders/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj",
+        "projectName": "Unity.Rendering.LightTransport.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.Rendering.LightTransport.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj",
+        "projectName": "Unity.ShaderGraph.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.ShaderGraph.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEditorBridge.ShaderGraph.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Editor.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Utilities.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Utilities.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Utilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Utilities.csproj",
+        "projectName": "Unity.ShaderGraph.Utilities",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.ShaderGraph.Utilities.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.ShaderGraph.Utilities/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj",
+        "projectName": "Unity.SurfaceCache.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.SurfaceCache.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.SurfaceCache.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.PathTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.Editor.csproj",
+        "projectName": "Unity.TextMeshPro.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.TextMeshPro.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.RenderPipelines.Core.Runtime.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj",
+        "projectName": "Unity.TextMeshPro",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.TextMeshPro/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.InternalAPIEngineBridge.004.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj",
+        "projectName": "Unity.UnifiedRayTracing.Runtime",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.UnifiedRayTracing.Runtime.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.UnifiedRayTracing.Runtime/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Collections.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.Analytics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.Analytics.csproj",
+        "projectName": "UnityEditor.UI.Analytics",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.Analytics.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEditor.UI.Analytics/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.TextMeshPro.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

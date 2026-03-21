@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj": {}
+  },
+  "projects": {
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj",
+        "projectName": "Unity.Rendering.LightTransport.Editor",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Unity.Rendering.LightTransport.Editor.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/Unity.Rendering.LightTransport.Editor/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj",
+        "projectName": "UnityEditor.TestRunner",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEditor.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj",
+        "projectName": "UnityEditor.UI",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.UI.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEditor.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEditor.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj"
+              },
+              "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+                "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj",
+        "projectName": "UnityEngine.TestRunner",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.TestRunner.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEngine.TestRunner/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj",
+        "projectName": "UnityEngine.UI",
+        "projectPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/UnityEngine.UI.csproj",
+        "packagesPath": "/home/ianmovill/.nuget/packages/",
+        "outputPath": "/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Temp/obj/UnityEngine.UI/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/ianmovill/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.100"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/10.0.104/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
