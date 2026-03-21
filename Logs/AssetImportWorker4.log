@@ -1,0 +1,1832 @@
+[UnityConnectServicesConfig] Local config successfully read: "/usr/share/unity3d/config/services-config.json"
+[UnityConnectServicesConfig] Service configuration:
+    "servicesConfigBaseUrl": "",
+    "disableServicesWindow": false,
+    "disableUserLogin": false,
+    "entitlementCacheTimeoutInSeconds": 60,
+    "clientConnectTimeoutSec": 60,
+    "clientHandshakeTimeoutSec": 30,
+    "clientResolveEntitlementsTimeoutSec": 30,
+    "clientUpdateLicenseTimeoutSec": 30,
+    "licensingServiceBaseUrl": "",
+    "enableProxyAutoconfig": "false"
+
+Unity Editor version:    6000.4.0f1 (8cf496087c8f)
+Branch:                  6000.4/staging
+Build type:              Release
+Batch mode:              YES
+System name:             Linux
+Distro version:          #1 SMP PREEMPT_DYNAMIC Sat, 14 Mar 2026 01:07:43 +0000
+Kernel version:          6.19.8-arch1-1
+Architecture:            x86_64
+Window Protocol:         Wayland (XWayland)
+Available memory:        15708 MB
+Date:                    2026-03-20T18:22:29Z
+[Licensing::Module] Trying to connect to existing licensing client channel...
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ianmovill" at "2026-03-20T18:22:29.239101Z"
+[SignatureVerifier] Application signature verification not supported on this platform.
+[Licensing::Client] Error: HandshakeResponse reported an error:
+	ResponseCode: 505
+	ResponseStatus: Unsupported protocol version '1.18.1'.
+[Licensing::Module] Error: Failed to handshake to channel: "LicenseClient-ianmovill"
+[Licensing::IpcConnector] LicenseClient-ianmovill channel disconnected successfully.
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ianmovill-6000.4.0" at "2026-03-20T18:22:29.240918Z"
+[SignatureVerifier] Application signature verification not supported on this platform.
+[Licensing::Client] Handshaking with LicensingClient:
+  Version:                 1.18.1+9fbee8e
+  Session Id:              70539888834b4db59bc5c858e4401011
+  Correlation Id:          2171d414defc84b3a91c15e454212d35
+  External correlation Id: 9220729932877380
+  Machine Id:              zQQrt6L2cRNPHFLnpkwmN1jLfBc=
+[Licensing::Module] Successfully connected to LicensingClient on channel: "LicenseClient-ianmovill-6000.4.0" (connect: 0.00s, validation: 0.00s, handshake: 0.00s)
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-ianmovill-6000.4.0-notifications" at "2026-03-20T18:22:29.242186Z"
+[Licensing::Module] Licensing Background thread has ended after 0.00s
+Selected window backend: (null) 
+Desktop is 1920 x 1080 @ 60 Hz
+Initialize udev device monitor.
+
+COMMAND LINE ARGUMENTS:
+Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+43921
+-licensingIpc
+LicenseClient-ianmovill
+-force-vulkan
+-job-worker-count
+5
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: /home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor
+/home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-gfx=262144"
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+Player connection [139900579642496]  Target information:
+
+Player connection [139900579642496]  * "[IP] 192.168.68.108 [Port] 0 [Flags] 2 [Guid] 956158387 [EditorId] 956158387 [Version] 1048832 [Id] LinuxEditor(16,192.168.68.108) [Debug] 1 [PackageName] LinuxEditor [ProjectName] Editor" 
+
+Player connection [139900579642496] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [139900579642496] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 5
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Initialize engine version: 6000.4.0f1 (8cf496087c8f)
+[Subsystems] Discovering subsystems at path /home/ianmovill/Unity/Hub/Editor/6000.4.0f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /home/ianmovill/Documentos/Tarea/Construcción de Software/Unity/SuperMario_IanMorgadoVillaseñor/Assets
+Forcing GfxDevice: Vulkan
+GfxDevice: creating device client; kGfxThreadingModeThreaded
+[vulkan] LoadVulkanLibrary libvulkan.so.1[vulkan] Loaded instance function vkGetInstanceProcAddr
+[vulkan] Loaded instance function vkGetInstanceProcAddr
+[vulkan] Loaded instance function vkCreateInstance
+[vulkan] Loaded instance function vkEnumerateInstanceExtensionProperties
+[vulkan] Loaded instance function vkEnumerateInstanceLayerProperties
+[vulkan] Loaded instance function vkEnumerateInstanceVersion
+[Vulkan init] extensions: count=25
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_debug_report [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_debug_utils [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_surface_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_swapchain_colorspace [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_device_group_creation [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_display [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_surface [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_surface_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_wayland_surface [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_xcb_surface [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_xlib_surface [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_LUNARG_direct_driver_loading [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_display_stereo [enabled=0, external=0]
+[vulkan] Loaded instance function vkDestroyInstance
+[vulkan] Loaded instance function vkGetPhysicalDeviceProperties
+[vulkan] Loaded instance function vkEnumeratePhysicalDevices
+[Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=(nil)
+[Vulkan init] Physical Device 0x55f5ee95a060 [0]: "NVIDIA GeForce RTX 3050 Laptop GPU" deviceType=2 vendorID=10de deviceID=25a5
+Vulkan detection: 2
+[Vulkan init] extensions: count=25
+[Vulkan init] extensions: name=VK_EXT_acquire_drm_display [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_acquire_xlib_display [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_debug_report [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_debug_utils [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_direct_mode_display [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_display_surface_counter [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_surface_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_swapchain_colorspace [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_device_group_creation [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_display [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_fence_capabilities [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_memory_capabilities [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_capabilities [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_display_properties2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_physical_device_properties2 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_surface_capabilities2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_portability_enumeration [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_surface [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_surface_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_surface_protected_capabilities [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_wayland_surface [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_xcb_surface [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_xlib_surface [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_LUNARG_direct_driver_loading [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_display_stereo [enabled=0, external=0]
+[vulkan] Loaded instance function vkDestroyInstance
+[vulkan] Loaded instance function vkGetPhysicalDeviceProperties
+[vulkan] Loaded instance function vkEnumeratePhysicalDevices
+[vulkan] Loaded instance function vkGetDeviceProcAddr
+[vulkan] Loaded instance function vkGetPhysicalDeviceFeatures
+[vulkan] Loaded instance function vkGetPhysicalDeviceFormatProperties
+[vulkan] Loaded instance function vkGetPhysicalDeviceImageFormatProperties
+[vulkan] Loaded instance function vkGetPhysicalDeviceQueueFamilyProperties
+[vulkan] Loaded instance function vkGetPhysicalDeviceMemoryProperties
+[vulkan] Loaded instance function vkCreateDevice
+[vulkan] Loaded instance function vkEnumerateDeviceExtensionProperties
+[vulkan] Loaded instance function vkEnumerateDeviceLayerProperties
+[vulkan] Loaded instance function vkGetPhysicalDeviceSparseImageFormatProperties
+[vulkan] Loaded instance function vkDestroySurfaceKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceSurfaceSupportKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceSurfaceCapabilitiesKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceSurfaceFormatsKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceSurfacePresentModesKHR
+[vulkan] Loaded instance function vkCreateSwapchainKHR
+[vulkan] Loaded instance function vkDestroySwapchainKHR
+[vulkan] Loaded instance function vkGetSwapchainImagesKHR
+[vulkan] Loaded instance function vkAcquireNextImageKHR
+[vulkan] Loaded instance function vkQueuePresentKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceDisplayPropertiesKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceDisplayPlanePropertiesKHR
+[vulkan] Loaded instance function vkGetDisplayPlaneSupportedDisplaysKHR
+[vulkan] Loaded instance function vkGetDisplayModePropertiesKHR
+[vulkan] Loaded instance function vkCreateDisplayModeKHR
+[vulkan] Loaded instance function vkGetDisplayPlaneCapabilitiesKHR
+[vulkan] Loaded instance function vkCreateDisplayPlaneSurfaceKHR
+[vulkan] Loaded instance function vkCreateSharedSwapchainsKHR
+[vulkan] Loaded instance function vkCreateXlibSurfaceKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceXlibPresentationSupportKHR
+[vulkan] Loaded instance function vkSetHdrMetadataEXT
+[vulkan] Loaded instance function vkGetPhysicalDeviceFeatures2KHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceProperties2KHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceFormatProperties2KHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceImageFormatProperties2KHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceQueueFamilyProperties2KHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceMemoryProperties2KHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceSparseImageFormatProperties2KHR
+[vulkan] Loaded instance function vkGetSemaphoreFdKHR
+[vulkan] Loaded instance function vkImportSemaphoreFdKHR
+[vulkan] Loaded instance function vkGetFenceFdKHR
+[vulkan] Loaded instance function vkImportFenceFdKHR
+[vulkan] Loaded instance function vkCreateSamplerYcbcrConversionKHR
+[vulkan] Loaded instance function vkDestroySamplerYcbcrConversionKHR
+[vulkan] Loaded instance function vkBindBufferMemory2KHR
+[vulkan] Loaded instance function vkBindImageMemory2KHR
+[vulkan] Loaded instance function vkWaitForPresentKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceExternalSemaphorePropertiesKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceExternalFencePropertiesKHR
+[vulkan] Loaded instance function vkGetPhysicalDeviceFragmentShadingRatesKHR
+[vulkan] Loaded instance function vkSetDebugUtilsObjectNameEXT
+[vulkan] Loaded instance function vkSetDebugUtilsObjectTagEXT
+[vulkan] Loaded instance function vkQueueBeginDebugUtilsLabelEXT
+[vulkan] Loaded instance function vkQueueEndDebugUtilsLabelEXT
+[vulkan] Loaded instance function vkQueueInsertDebugUtilsLabelEXT
+[vulkan] Loaded instance function vkCmdBeginDebugUtilsLabelEXT
+[vulkan] Loaded instance function vkCmdEndDebugUtilsLabelEXT
+[vulkan] Loaded instance function vkCmdInsertDebugUtilsLabelEXT
+[Vulkan init] SelectPhysicalDevice requestedDeviceIndex=-1 xrDevice=(nil)
+[Vulkan init] Physical Device 0x55f5ee947f40 [0]: "NVIDIA GeForce RTX 3050 Laptop GPU" deviceType=2 vendorID=10de deviceID=25a5
+[Vulkan init] Selected physical device 0x55f5ee947f40
+[Vulkan init] Graphics queue count=1
+[Vulkan init] extensions: count=261
+[Vulkan init] extensions: name=VK_AMD_buffer_marker [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_4444_formats [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_attachment_feedback_loop_dynamic_state [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_attachment_feedback_loop_layout [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_blend_operation_advanced [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_border_color_swizzle [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_buffer_device_address [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_calibrated_timestamps [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_color_write_enable [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_conditional_rendering [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_conservative_rasterization [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_custom_border_color [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_depth_bias_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_depth_clamp_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_depth_clamp_zero_one [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_depth_clip_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_depth_clip_enable [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_depth_range_unrestricted [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_descriptor_buffer [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_descriptor_indexing [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_device_address_binding_report [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_device_fault [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_device_generated_commands [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_discard_rectangles [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_display_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_dynamic_rendering_unused_attachments [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_extended_dynamic_state3 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_external_memory_dma_buf [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_external_memory_host [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_fragment_shader_interlock [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_global_priority [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_global_priority_query [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_graphics_pipeline_library [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_host_image_copy [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_host_query_reset [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_image_2d_view_of_3d [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_image_drm_format_modifier [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_image_robustness [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_image_sliced_view_of_3d [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_image_view_min_lod [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_index_type_uint8 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_inline_uniform_block [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_legacy_vertex_attributes [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_line_rasterization [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_load_store_op_none [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_map_memory_placed [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_memory_budget [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_memory_priority [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_mesh_shader [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_multi_draw [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_mutable_descriptor_type [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_nested_command_buffer [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_non_seamless_cube_map [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_opacity_micromap [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_pageable_device_local_memory [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_pci_bus_info [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_physical_device_drm [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_cache_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_pipeline_creation_feedback [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_pipeline_library_group_handles [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_pipeline_robustness [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_post_depth_coverage [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_present_mode_fifo_latest_ready [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_primitive_topology_list_restart [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_primitives_generated_query [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_private_data [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_provoking_vertex [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_queue_family_foreign [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_robustness2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_sample_locations [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_sampler_filter_minmax [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_scalar_block_layout [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_separate_stencil_usage [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_atomic_float [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_demote_to_helper_invocation [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_image_atomic_int64 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_module_identifier [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_object [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_replicated_composites [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_ballot [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_subgroup_vote [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_shader_viewport_index_layer [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_subgroup_size_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_swapchain_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_texel_buffer_alignment [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_tooling_info [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_transform_feedback [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_vertex_attribute_divisor [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_vertex_attribute_robustness [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_vertex_input_dynamic_state [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_EXT_ycbcr_2plane_444_formats [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_ycbcr_image_arrays [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_EXT_zero_initialize_device_memory [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_GOOGLE_hlsl_functionality1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_GOOGLE_user_type [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_16bit_storage [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_8bit_storage [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_acceleration_structure [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_bind_memory2 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_buffer_device_address [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_calibrated_timestamps [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_compute_shader_derivatives [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_cooperative_matrix [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_copy_commands2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_create_renderpass2 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_dedicated_allocation [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_deferred_host_operations [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_depth_clamp_zero_one [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_depth_stencil_resolve [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_descriptor_update_template [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_device_group [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_draw_indirect_count [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_driver_properties [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_dynamic_rendering [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_dynamic_rendering_local_read [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_fence [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_fence_fd [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_memory [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_memory_fd [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_semaphore [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_external_semaphore_fd [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_format_feature_flags2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_fragment_shader_barycentric [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_fragment_shading_rate [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_get_memory_requirements2 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_global_priority [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_image_format_list [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_imageless_framebuffer [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_incremental_present [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_index_type_uint8 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_line_rasterization [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_load_store_op_none [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance1 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance2 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance3 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance4 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance5 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance6 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance7 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance8 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_maintenance9 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_map_memory2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_multiview [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_pipeline_binary [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_pipeline_executable_properties [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_pipeline_library [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_present_id [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_present_id2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_present_mode_fifo_latest_ready [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_present_wait [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_present_wait2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_push_descriptor [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_ray_query [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_ray_tracing_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_ray_tracing_pipeline [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_ray_tracing_position_fetch [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_relaxed_block_layout [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_robustness2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_sampler_mirror_clamp_to_edge [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_sampler_ycbcr_conversion [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_separate_depth_stencil_layouts [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_atomic_int64 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_bfloat16 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_clock [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_draw_parameters [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_expect_assume [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_float16_int8 [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_float_controls [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_float_controls2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_integer_dot_product [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_maximal_reconvergence [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_non_semantic_info [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_quad_control [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_relaxed_extended_instruction [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_extended_types [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_rotate [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_subgroup_uniform_control_flow [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_terminate_invocation [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shader_untyped_pointers [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_shared_presentable_image [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_spirv_1_4 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_storage_buffer_storage_class [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_swapchain [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_swapchain_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_swapchain_mutable_format [enabled=1, external=0]
+[Vulkan init] extensions: name=VK_KHR_synchronization2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_timeline_semaphore [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_unified_image_layouts [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_uniform_buffer_standard_layout [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_variable_pointers [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_vertex_attribute_divisor [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_decode_av1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_decode_h264 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_decode_h265 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_decode_queue [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_decode_vp9 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_encode_h264 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_encode_h265 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_encode_intra_refresh [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_encode_quantization_map [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_encode_queue [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_maintenance1 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_maintenance2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_video_queue [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_vulkan_memory_model [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_workgroup_memory_explicit_layout [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_KHR_zero_initialize_workgroup_memory [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NVX_binary_import [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NVX_image_view_handle [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NVX_multiview_per_view_attributes [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_clip_space_w_scaling [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_cluster_acceleration_structure [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_compute_shader_derivatives [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_cooperative_matrix [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_cooperative_matrix2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_cooperative_vector [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_copy_memory_indirect [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_corner_sampled_image [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_coverage_reduction_mode [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_cuda_kernel_launch [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_dedicated_allocation [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_dedicated_allocation_image_aliasing [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_descriptor_pool_overallocation [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_device_diagnostic_checkpoints [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_device_diagnostics_config [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_device_generated_commands [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_device_generated_commands_compute [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_disk_cache_utils [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_extended_sparse_address_space [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_fill_rectangle [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_fragment_coverage_to_color [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_fragment_shader_barycentric [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_fragment_shading_rate_enums [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_framebuffer_mixed_samples [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_geometry_shader_passthrough [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_inherited_viewport_scissor [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_internal_nvpresent [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_linear_color_attachment [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_low_latency [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_low_latency2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_memory_decompression [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_mesh_shader [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_optical_flow [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_partitioned_acceleration_structure [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_present_metering [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_raw_access_chains [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_ray_tracing [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_ray_tracing_invocation_reorder [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_ray_tracing_motion_blur [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_representative_fragment_test [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_sample_mask_override_coverage [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_scissor_exclusive [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_shader_atomic_float16_vector [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_shader_image_footprint [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_shader_sm_builtins [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_shader_subgroup_partitioned [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_shading_rate_image [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_viewport_array2 [enabled=0, external=0]
+[Vulkan init] extensions: name=VK_NV_viewport_swizzle [enabled=0, external=0]
+[vulkan] Loaded device function vkDestroyDevice
+[vulkan] Loaded device function vkGetDeviceQueue
+[vulkan] Loaded device function vkQueueSubmit
+[vulkan] Loaded device function vkQueueWaitIdle
+[vulkan] Loaded device function vkDeviceWaitIdle
+[vulkan] Loaded device function vkAllocateMemory
+[vulkan] Loaded device function vkFreeMemory
+[vulkan] Loaded device function vkMapMemory
+[vulkan] Loaded device function vkUnmapMemory
+[vulkan] Loaded device function vkFlushMappedMemoryRanges
+[vulkan] Loaded device function vkInvalidateMappedMemoryRanges
+[vulkan] Loaded device function vkGetDeviceMemoryCommitment
+[vulkan] Loaded device function vkBindBufferMemory
+[vulkan] Loaded device function vkBindImageMemory
+[vulkan] Loaded device function vkGetBufferMemoryRequirements
+[vulkan] Loaded device function vkGetImageMemoryRequirements
+[vulkan] Loaded device function vkGetImageSparseMemoryRequirements
+[vulkan] Loaded device function vkQueueBindSparse
+[vulkan] Loaded device function vkCreateFence
+[vulkan] Loaded device function vkDestroyFence
+[vulkan] Loaded device function vkResetFences
+[vulkan] Loaded device function vkGetFenceStatus
+[vulkan] Loaded device function vkWaitForFences
+[vulkan] Loaded device function vkCreateSemaphore
+[vulkan] Loaded device function vkDestroySemaphore
+[vulkan] Loaded device function vkCreateEvent
+[vulkan] Loaded device function vkDestroyEvent
+[vulkan] Loaded device function vkGetEventStatus
+[vulkan] Loaded device function vkSetEvent
+[vulkan] Loaded device function vkResetEvent
+[vulkan] Loaded device function vkCreateQueryPool
+[vulkan] Loaded device function vkDestroyQueryPool
+[vulkan] Loaded device function vkGetQueryPoolResults
+[vulkan] Loaded device function vkCreateBuffer
+[vulkan] Loaded device function vkDestroyBuffer
+[vulkan] Loaded device function vkCreateBufferView
+[vulkan] Loaded device function vkDestroyBufferView
+[vulkan] Loaded device function vkCreateImage
+[vulkan] Loaded device function vkDestroyImage
+[vulkan] Loaded device function vkGetImageSubresourceLayout
+[vulkan] Loaded device function vkCreateImageView
+[vulkan] Loaded device function vkDestroyImageView
+[vulkan] Loaded device function vkCreateShaderModule
+[vulkan] Loaded device function vkDestroyShaderModule
+[vulkan] Loaded device function vkCreatePipelineCache
+[vulkan] Loaded device function vkDestroyPipelineCache
+[vulkan] Loaded device function vkGetPipelineCacheData
+[vulkan] Loaded device function vkMergePipelineCaches
+[vulkan] Loaded device function vkCreateGraphicsPipelines
+[vulkan] Loaded device function vkCreateComputePipelines
+[vulkan] Loaded device function vkDestroyPipeline
+[vulkan] Loaded device function vkCreatePipelineLayout
+[vulkan] Loaded device function vkDestroyPipelineLayout
+[vulkan] Loaded device function vkCreateSampler
+[vulkan] Loaded device function vkDestroySampler
+[vulkan] Loaded device function vkCreateDescriptorSetLayout
+[vulkan] Loaded device function vkDestroyDescriptorSetLayout
+[vulkan] Loaded device function vkCreateDescriptorPool
+[vulkan] Loaded device function vkDestroyDescriptorPool
+[vulkan] Loaded device function vkResetDescriptorPool
+[vulkan] Loaded device function vkAllocateDescriptorSets
+[vulkan] Loaded device function vkFreeDescriptorSets
+[vulkan] Loaded device function vkUpdateDescriptorSets
+[vulkan] Loaded device function vkCreateFramebuffer
+[vulkan] Loaded device function vkDestroyFramebuffer
+[vulkan] Loaded device function vkCreateRenderPass
+[vulkan] Loaded device function vkDestroyRenderPass
+[vulkan] Loaded device function vkGetRenderAreaGranularity
+[vulkan] Loaded device function vkCreateCommandPool
+[vulkan] Loaded device function vkDestroyCommandPool
+[vulkan] Loaded device function vkResetCommandPool
+[vulkan] Loaded device function vkAllocateCommandBuffers
+[vulkan] Loaded device function vkFreeCommandBuffers
+[vulkan] Loaded device function vkBeginCommandBuffer
+[vulkan] Loaded device function vkEndCommandBuffer
+[vulkan] Loaded device function vkResetCommandBuffer
+[vulkan] Loaded device function vkCmdBindPipeline
+[vulkan] Loaded device function vkCmdSetViewport
+[vulkan] Loaded device function vkCmdSetScissor
+[vulkan] Loaded device function vkCmdSetLineWidth
+[vulkan] Loaded device function vkCmdSetDepthBias
+[vulkan] Loaded device function vkCmdSetBlendConstants
+[vulkan] Loaded device function vkCmdSetDepthBounds
+[vulkan] Loaded device function vkCmdSetStencilCompareMask
+[vulkan] Loaded device function vkCmdSetStencilWriteMask
+[vulkan] Loaded device function vkCmdSetStencilReference
+[vulkan] Loaded device function vkCmdBindDescriptorSets
+[vulkan] Loaded device function vkCmdBindIndexBuffer
+[vulkan] Loaded device function vkCmdBindVertexBuffers
+[vulkan] Loaded device function vkCmdDraw
+[vulkan] Loaded device function vkCmdDrawIndexed
+[vulkan] Loaded device function vkCmdDrawIndirect
+[vulkan] Loaded device function vkCmdDrawIndexedIndirect
+[vulkan] Loaded device function vkCmdDispatch
+[vulkan] Loaded device function vkCmdDispatchIndirect
+[vulkan] Loaded device function vkCmdCopyBuffer
+[vulkan] Loaded device function vkCmdCopyImage
+[vulkan] Loaded device function vkCmdBlitImage
+[vulkan] Loaded device function vkCmdCopyBufferToImage
+[vulkan] Loaded device function vkCmdCopyImageToBuffer
+[vulkan] Loaded device function vkCmdUpdateBuffer
+[vulkan] Loaded device function vkCmdFillBuffer
+[vulkan] Loaded device function vkCmdClearColorImage
+[vulkan] Loaded device function vkCmdClearDepthStencilImage
+[vulkan] Loaded device function vkCmdClearAttachments
+[vulkan] Loaded device function vkCmdResolveImage
+[vulkan] Loaded device function vkCmdSetEvent
+[vulkan] Loaded device function vkCmdResetEvent
+[vulkan] Loaded device function vkCmdWaitEvents
+[vulkan] Loaded device function vkCmdPipelineBarrier
+[vulkan] Loaded device function vkCmdBeginQuery
+[vulkan] Loaded device function vkCmdEndQuery
+[vulkan] Loaded device function vkCmdResetQueryPool
+[vulkan] Loaded device function vkCmdWriteTimestamp
+[vulkan] Loaded device function vkCmdCopyQueryPoolResults
+[vulkan] Loaded device function vkCmdPushConstants
+[vulkan] Loaded device function vkCmdBeginRenderPass
+[vulkan] Loaded device function vkCmdNextSubpass
+[vulkan] Loaded device function vkCmdEndRenderPass
+[vulkan] Loaded device function vkCmdExecuteCommands
+[vulkan] Loaded device function vkGetImageMemoryRequirements2KHR
+[vulkan] Loaded device function vkGetBufferMemoryRequirements2KHR
+[vulkan] Loaded device function vkGetImageSparseMemoryRequirements2KHR
+[vulkan] Loaded device function vkCreateDescriptorUpdateTemplateKHR
+[vulkan] Loaded device function vkDestroyDescriptorUpdateTemplateKHR
+[vulkan] Loaded device function vkUpdateDescriptorSetWithTemplateKHR
+[vulkan] Loaded device function vkCmdBeginRenderPass2KHR
+[vulkan] Loaded device function vkCmdEndRenderPass2KHR
+[vulkan] Loaded device function vkCmdNextSubpass2KHR
+[vulkan] Loaded device function vkCreateRenderPass2KHR
+[vulkan] Loaded device function vkCmdSetVertexInputEXT
+[vulkan] Loaded device function vkCmdSetFragmentShadingRateKHR
+[vulkan] Failed to load device function vkGetFramebufferTilePropertiesQCOM
+[vulkan] Loaded instance function vkGetFramebufferTilePropertiesQCOM
+[vulkan] Failed to load device function vkDebugMarkerSetObjectTagEXT
+[vulkan] Loaded instance function vkDebugMarkerSetObjectTagEXT
+[vulkan] Failed to load device function vkDebugMarkerSetObjectNameEXT
+[vulkan] Loaded instance function vkDebugMarkerSetObjectNameEXT
+[vulkan] Failed to load device function vkCmdDebugMarkerBeginEXT
+[vulkan] Loaded instance function vkCmdDebugMarkerBeginEXT
+[vulkan] Failed to load device function vkCmdDebugMarkerEndEXT
+[vulkan] Loaded instance function vkCmdDebugMarkerEndEXT
+[vulkan] Failed to load device function vkCmdDebugMarkerInsertEXT
+[vulkan] Loaded instance function vkCmdDebugMarkerInsertEXT
+Vulkan API version 1.1.0 (1.4.325 supported by driver, 1.1.0 requested)
+Vulkan vendor=[NVIDIA] id=[10de]
+Vulkan renderer=[NVIDIA GeForce RTX 3050 Laptop GPU] id=[25a5]
+Vulkan device type 2
+Vulkan driverversion=[590.192.64 (0x938c0040)] uint=[-1819541440]
+Vulkan driverLibraryString=[NVIDIA (4), 590.48.01]
+Vulkan PSO: Cache data successfully loaded [size=40508,path=/tmp/DefaultCompany/SuperMario_IanMorgadoVillaseñor/vulkan_pso_cache.bin]
+Initialize mono
+Mono path[0] = '/home/ianmovill/Unity/Hub/Editor/6000.4.0f1/Editor/Data/Managed'
+Mono path[1] = '/home/ianmovill/Unity/Hub/Editor/6000.4.0f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-linux'
+Mono config path = '/home/ianmovill/Unity/Hub/Editor/6000.4.0f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56621
+CodeReloadManager initialized
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /home/ianmovill/Unity/Hub/Editor/6000.4.0f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: /home/ianmovill/Unity/Hub/Editor/6000.4.0f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Registered in 0.001078 seconds.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.335 seconds
+Domain Reload Profiling: 658ms
+	BeginReloadAssembly (64ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (49ms)
+	LoadAllAssembliesAndSetupDomain (171ms)
+		LoadAssemblies (63ms)
+		AnalyzeDomain (163ms)
+			TypeCache.Refresh (161ms)
+				TypeCache.ScanAssembly (149ms)
+	FinalizeReload (336ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (43ms)
+			BeforeProcessingInitializeOnLoad (70ms)
+			ProcessInitializeOnLoadAttributes (93ms)
+			ProcessInitializeOnLoadMethodAttributes (67ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+[Licensing::Module] License group:
+  Id: 4674159481963-UnityPersXXXX
+  Product: Unity Personal
+  Type: Assigned
+  Expiration: Unlimited
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp.dll at Library/ScriptAssemblies/Assembly-CSharp.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.585 seconds
+Domain Reload Profiling: 1156ms
+	BeginReloadAssembly (94ms)
+		DisableScriptedObjects (4ms)
+		CreateAndSetChildDomain (25ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (394ms)
+		LoadAssemblies (195ms)
+		AnalyzeDomain (229ms)
+			TypeCache.Refresh (149ms)
+				TypeCache.ScanAssembly (135ms)
+			BuildScriptInfoCaches (71ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (585ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			BeforeProcessingInitializeOnLoad (114ms)
+			ProcessInitializeOnLoadAttributes (237ms)
+			ProcessInitializeOnLoadMethodAttributes (103ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (3ms)
+AutoLocale: current locale expects 'C' but got 'es_MX.UTF-8'Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7020 unused Assets / (5.7 MB). Loaded Objects now: 7853.
+Memory consumption went from 189.8 MB to 184.1 MB.
+Total: 11.400998 ms (FindLiveObjects: 0.604442 ms CreateObjectMapping: 0.706821 ms MarkObjects: 6.107210 ms  DeleteObjects: 3.981424 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 8714.986250 seconds.
+  path: Assets/Images/BloquesMundo/MarioBloques_24.asset
+  importAddress: Guid(2fb3149a273da03e4939a63df500a2f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Images/BloquesMundo/MarioBloques_24.asset using Guid(2fb3149a273da03e4939a63df500a2f4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fd3df703cc6b26a17216d014c45120a5') in 0.077025934 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9142a7926bb81f6b51b0e8d892371ff0 DependenciesID=2f40624f9b5caa0ccf769dbdd1d05bb4 StaticDependenciesID=4edad6f182745e03a2cc7312fc22b623 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.200812 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'cef8d4223bbfb4dd6d1beef71c31c307') in 0.328546526 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=beca03a2e14d949c593dffa9e0e62375 DependenciesID=9da37f84a39aa3b3aa80831a5e2e2324 StaticDependenciesID=9f6474e73af66dece7408c129f1e6847 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 83
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.831913 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0dba02aed52bb5f2d4e10754a62d3d01') in 0.006966957 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=efff9817cc8fabac33cec5d33737842a DependenciesID=2c6ecbcef409846675b5a4d87aebed39 StaticDependenciesID=40fc6ec392626d52a8a8fe4c7530d487 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.836285 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2c415cff3a82ed80a11e9bf4b4aa897a') in 0.015076048 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=74fdd9f35aa5e62aa4b0c0f6650bcb8d DependenciesID=3d2e780a7cdfc8a49bed2cd82021da41 StaticDependenciesID=36a8ab35a13cadee619a0db5f3c8ce36 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.785499 seconds.
+  path: Assets/Images/BloquesMundo/MarioBloques_24.asset
+  importAddress: Guid(2fb3149a273da03e4939a63df500a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/BloquesMundo/MarioBloques_24.asset using Guid(2fb3149a273da03e4939a63df500a2f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '255fed2c39577fd5a2b642b38ebf5e47') in 0.007165835 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d14914d640f29a3af35c99ef7409723 DependenciesID=423f162ac3d672e74078fa81d92eebee StaticDependenciesID=5eae71ae1048884bce3fd7264c517146 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.567728 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8f3d9fe97977717becf3f32ae6cba7c5') in 0.004698553 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=797a7235086dcabbc7de92d9f7a79951 DependenciesID=3294bc054607673fee16a1deebfb3321 StaticDependenciesID=57b04fa98c3fa4dbfdc380c7323875fe 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.855985 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b60ff63958b969d92cccd2f4f895dfbb') in 0.007885675 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e3bd6d2afb80701fc07e1554ef3cb51d DependenciesID=439fdda3581c32ac5b50ad0e6cce4834 StaticDependenciesID=f7c28ded607bc42fa888c30dba4fc74e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 83
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.259250 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7a1b11615763508e527579b2e3734e2b') in 0.005845212 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ce6bf600a7f3e691161a64795c3fcfc8 DependenciesID=e7c7acbd2de3c442fcfb1bcaadc87bc7 StaticDependenciesID=05ea7695906f7120efa0daa92143817f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.841977 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a43b80e159784fcfbb814c7923cbd553') in 0.002785407 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bcaad2bc50d05252ec8094ebd345ff92 DependenciesID=227f97530c0e679c89a0fce22704bcff StaticDependenciesID=c104f15bc0412c045f96718a733f70da 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.052622 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '0e6a3e97d9dd111e2e8d3e2457c9cb32') in 0.006003948 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=4d3e2b3ee6f0d2c6ea14ed5004ee568c DependenciesID=8db37911e279359dd489fe6af710bd0d StaticDependenciesID=f443ec674d05504289b50bb0cd06431d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.835925 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cf8e031e645cffc253145a4f4fceb786') in 0.002779104 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d8b4ab833687a86f0c8c0cff0f5f111d DependenciesID=3db1de13ac8a2a0d031b4451fb412a34 StaticDependenciesID=a6aa25a0df6bd98390a7775ca9d8a8c8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.360310 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'db4bd1c961edebc5bea7a86f44a537c7') in 0.002581326 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=976dd0fb6e35e1714ee69a2c29080ac1 DependenciesID=d57986b78409a0a765e00fb2bd5af6fe StaticDependenciesID=b05111ca05a1210a1e89a051c2a07aca 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.159586 seconds.
+  path: Assets/Tiles/MarioBloques_32.asset
+  importAddress: Guid(ed6d91779987ccbe18cee1dd7f7c24e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_32.asset using Guid(ed6d91779987ccbe18cee1dd7f7c24e1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '966eaf4801d609aec2c0b120f2d17c74') in 0.003039147 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b07fce9f96f9c2864ce36e387c3b68d5 DependenciesID=81e52c2108c10ceba705024dbfbf2229 StaticDependenciesID=16d5b07171e2904be35bd277e0fded08 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.696322 seconds.
+  path: Assets/Tiles/MarioBloques_33.asset
+  importAddress: Guid(2d806412ed114d18b81917114eb79099) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_33.asset using Guid(2d806412ed114d18b81917114eb79099) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '05329a36a1d4b1b3ef64c05691042023') in 0.003306171 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=96a023a6a732b406b9bf8bfcbda46a75 DependenciesID=15af0d80b769708b2fa4416531af09a7 StaticDependenciesID=5f575677f8606f597133b5a3d4a8f489 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.331827 seconds.
+  path: Assets/Tiles/MarioBloques_34.asset
+  importAddress: Guid(3c4c22276a9b64abe8c303b60f796fe8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_34.asset using Guid(3c4c22276a9b64abe8c303b60f796fe8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'da288921b42f2726f2db419686003b4f') in 0.004029034 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bd391952da0ec2019db9fc47aae55d27 DependenciesID=0071b83281db9d34b0ab70560ea1bd38 StaticDependenciesID=b99c7d2e3b552563f4e38fd22f6be1d5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.687061 seconds.
+  path: Assets/Tiles/MarioBloques_0.asset
+  importAddress: Guid(a6b1b96033d2fc0ff835969fcd834cb8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_0.asset using Guid(a6b1b96033d2fc0ff835969fcd834cb8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1dc1c02899a6efa837906ce1d46aba8a') in 0.002857894 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1c95c73068b253a82997058410e9d4ed DependenciesID=a9d0075c52e2e1927428dc65b6cd1f3c StaticDependenciesID=3fcd9ab5c818b286241a4595c7ee3931 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.289518 seconds.
+  path: Assets/Tiles/MarioBloques_17.asset
+  importAddress: Guid(3221b97e1cd18d70b8a0463456839e96) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_17.asset using Guid(3221b97e1cd18d70b8a0463456839e96) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3e3bb5c1c2bf4e7389b1f10eb4d7ee59') in 0.002911684 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=473ee3cc962a91cb00eb963401657df3 DependenciesID=9af724054def3d05dfc0000313fab420 StaticDependenciesID=9217770a7b16362fc83689920a549d71 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.695153 seconds.
+  path: Assets/Tiles/MarioBloques_24.asset
+  importAddress: Guid(071ee8036f17d8ec08d4e340c8e1d19c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_24.asset using Guid(071ee8036f17d8ec08d4e340c8e1d19c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '92ab62131678cefbf5a374c84e7f6a64') in 0.002856869 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5b05482967af7dd9032df413b79d8e94 DependenciesID=9c7ef1059074a5d13730861353373538 StaticDependenciesID=38667bc23a21454a013967823314bd98 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.978272 seconds.
+  path: Assets/Tiles/MarioBloques_1.asset
+  importAddress: Guid(2f82699fe494eec649e9a96f76df7f6f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_1.asset using Guid(2f82699fe494eec649e9a96f76df7f6f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7d66316635702d7300b11dc4199ccd38') in 0.003113117 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cbc99c05c3782dee0bc6732d399c17c0 DependenciesID=3d974cb41f8d026791124dcc207c69ca StaticDependenciesID=7488a7557c1519e37e717d3f6b6d1480 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.583350 seconds.
+  path: Assets/Tiles/MarioBloques_118.asset
+  importAddress: Guid(456ffff09760d27cc9f080dec501e75e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_118.asset using Guid(456ffff09760d27cc9f080dec501e75e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '99841e7e7bd1f56825346e46e05d4a86') in 0.004185451 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=78217a72f1ed08ece773a7285d6a8b6e DependenciesID=d32ea9a89c7a82e9f89d2cc747077ade StaticDependenciesID=597d915ab2c63d32ce9668db6a4bdae5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.022381 seconds.
+  path: Assets/Tiles/MarioBloques_119.asset
+  importAddress: Guid(ae5b51edf20cfa2d4982ab4c562fe8be) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_119.asset using Guid(ae5b51edf20cfa2d4982ab4c562fe8be) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8f6f064c03f7e25ddccf6d80c007b03d') in 0.00417346 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=85592ed79421455c350ef34606ea4a15 DependenciesID=db5ec0a61c68ace01b1f402c6a73c67a StaticDependenciesID=c010c69ca2ac19a12495d599be78bce1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.124480 seconds.
+  path: Assets/Tiles/MarioBloques_35.asset
+  importAddress: Guid(40bd0b3153727b048ba9fa99651a0f42) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_35.asset using Guid(40bd0b3153727b048ba9fa99651a0f42) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'da407f356ff24730ff379ff9b959b4a9') in 0.002755924 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=739a707c6bc149c836e927b0f8e07fb3 DependenciesID=0e7b2b432ce27e5e870f6c2ad7d14e96 StaticDependenciesID=3659f78c995429e752cfa5d0a4e405b0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.693444 seconds.
+  path: Assets/Tiles/MarioBloques_36.asset
+  importAddress: Guid(32b92de6a75d4d7c299ca7451ed10b08) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_36.asset using Guid(32b92de6a75d4d7c299ca7451ed10b08) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6b7bc3090b6a3e7131c68c0ae1691b83') in 0.007410106 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2ac57afa0ab3143b391c4bee201489e2 DependenciesID=04468b1c0c46ca66d0b8c35c17fbaffc StaticDependenciesID=bb2df3476875069ad47fac6a51877536 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.949780 seconds.
+  path: Assets/Tiles/MarioBloques_37.asset
+  importAddress: Guid(bc4355ff9f3622fbd9ba63ff18fa032f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_37.asset using Guid(bc4355ff9f3622fbd9ba63ff18fa032f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '53d7a21046f8b3f7c83760dd518af25e') in 0.002683556 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=038f37df20662c70d3cff654b420355b DependenciesID=8930ec8790ae89758fe76d4b3b27fb51 StaticDependenciesID=6a1131e82a76f16a2a0d3c16368f0857 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.606744 seconds.
+  path: Assets/Tiles/MarioBloques_38.asset
+  importAddress: Guid(92180bfb3d7079e6c96c5b0771120968) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_38.asset using Guid(92180bfb3d7079e6c96c5b0771120968) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c2178d4c72d2a3c5244c1fd552123b26') in 0.003303274 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d39ef191090067729c16dd3fcd109d0e DependenciesID=24295640fd9037e0d57b210fc0c837aa StaticDependenciesID=9ee2313e8d74a831304d64210aede905 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.425426 seconds.
+  path: Assets/Tiles/MarioBloques_39.asset
+  importAddress: Guid(4a3b23aa4ff651c4c9b1ae1ee47f563a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_39.asset using Guid(4a3b23aa4ff651c4c9b1ae1ee47f563a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5279ec4f8582f3bc857cf94685a3474a') in 0.002904584 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c8081888834185a763c0cd662fbe366a DependenciesID=0f6f779ba8cdb28bf2fabbdd6ec913d6 StaticDependenciesID=ceb438d7511d1a239c4b0ac4925c284e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.244591 seconds.
+  path: Assets/Tiles/MarioBloques_40.asset
+  importAddress: Guid(d4dacfe531dc5928aa5e0ee416a4b62a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_40.asset using Guid(d4dacfe531dc5928aa5e0ee416a4b62a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f24adf7faa3fb598a5508722575c9aa3') in 0.00309682 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=136e32de2c672d5c55f46b41885677e9 DependenciesID=bb2db5fa8915fd1109090a845bd31d05 StaticDependenciesID=32b938f60eb0197e4f6c3fa8d86d0321 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.244508 seconds.
+  path: Assets/Tiles/MarioBloques_41.asset
+  importAddress: Guid(e6f79075973a459e29eb95669382574e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_41.asset using Guid(e6f79075973a459e29eb95669382574e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7c1bdbb8320d17b698eb90b45e817fe1') in 0.008111602 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2cedda81a9b49e56ebd265d4bbf00737 DependenciesID=30d94da6764c4da2eb63b257a23df292 StaticDependenciesID=4da45b0303dcf961d914b07c4130c187 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.685978 seconds.
+  path: Assets/Tiles/MarioBloques_42.asset
+  importAddress: Guid(a10a6f27a55620e789c7aa30d2513d6c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_42.asset using Guid(a10a6f27a55620e789c7aa30d2513d6c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e6b88dfd5117a2683345dccd0018eb5a') in 0.003081864 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=517f6828578ce9f31066317329fea791 DependenciesID=2fbeb9fa4bba459ee26d12a90688de4d StaticDependenciesID=e1a46ef0dc28c0547c9ab58479bb7cfb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.634165 seconds.
+  path: Assets/Tiles/MarioBloques_43.asset
+  importAddress: Guid(7904f3a8b6db1facda2ef9ce43280e5c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_43.asset using Guid(7904f3a8b6db1facda2ef9ce43280e5c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6dca33619287e74c353e6a08a5087128') in 0.002693587 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=75568ddbd40d2c70d9dd432dbb633716 DependenciesID=2e89579210264f78ffe234160f15df59 StaticDependenciesID=4363224d42f7be756b806d94f21438a2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.074848 seconds.
+  path: Assets/Tiles/MarioBloques_44.asset
+  importAddress: Guid(b743b966c1e3a539c9be19bb7219ab2f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_44.asset using Guid(b743b966c1e3a539c9be19bb7219ab2f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8cb0855997f91db0563624f57445e3ae') in 0.002952753 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1ef9a2e8abe980bd8f7ef12364dce4ac DependenciesID=37ab68b0fcaa9d6ac5b8effd64e7a390 StaticDependenciesID=99b6bb6718be2c18bdd931a23bae7e8d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.502993 seconds.
+  path: Assets/Tiles/MarioBloques_45.asset
+  importAddress: Guid(13ae6febf7b5e44269d341d55f1b5231) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_45.asset using Guid(13ae6febf7b5e44269d341d55f1b5231) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b664d880ec55db3a3be6ca6c5a150f75') in 0.002974044 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5be6363d5a3e46aa5b6431d56a9459c3 DependenciesID=042dacd8b4702943a7851c2ceaf27a01 StaticDependenciesID=cd8cc26b239f814ad38df6249b40d3b3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.969559 seconds.
+  path: Assets/Tiles/MarioBloques_48.asset
+  importAddress: Guid(4380401de724f58f4b06c2a157fa6444) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_48.asset using Guid(4380401de724f58f4b06c2a157fa6444) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'baade81d90d73edc98373914f5f70143') in 0.002953989 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3ef712043bd98641b0e3111c9d35672c DependenciesID=c55f8c7b4414e8f2ca5555a74d2221b9 StaticDependenciesID=357fd457d35f9dea78be59c8318db4cf 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.889798 seconds.
+  path: Assets/Tiles/MarioBloques_49.asset
+  importAddress: Guid(76d975780ad93a637958cd215e988ac6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_49.asset using Guid(76d975780ad93a637958cd215e988ac6) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1026ef3dbfd73076eae55a804f9696b7') in 0.003391588 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f02043b51208c7d050e32149c71c0b13 DependenciesID=b31d4b50ab0116b7d4dfd895fc3435f0 StaticDependenciesID=c24ebc4116eaeb55727fb9db1f7d860e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.040103 seconds.
+  path: Assets/Tiles/MarioBloques_50.asset
+  importAddress: Guid(53c9850ff55edc368964c48995ab6017) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_50.asset using Guid(53c9850ff55edc368964c48995ab6017) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7cd5faaafffbfc98f959bfc4188a9087') in 0.003676971 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7e6d648f0600e1847c8398261ad37706 DependenciesID=dcd7f190e3d17a8b8343980f6a188684 StaticDependenciesID=27f00db8fcaa34a37757f99d311f65c4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.747554 seconds.
+  path: Assets/Tiles/MarioBloques_51.asset
+  importAddress: Guid(261e95ef159653542a2de3302d02674d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_51.asset using Guid(261e95ef159653542a2de3302d02674d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1ee7e83424f2b2ae9365a6d8a1c3f41f') in 0.002706443 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d22268e73b782640af787e1d3ec4f054 DependenciesID=05bb7c90c24097e18cbc449df1b782da StaticDependenciesID=726816007e0383cdc879a218b0f9ef46 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.062094 seconds.
+  path: Assets/Tiles/MarioBloques_52.asset
+  importAddress: Guid(d6e08fdc563b91812b78b8d4ab1f8b95) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_52.asset using Guid(d6e08fdc563b91812b78b8d4ab1f8b95) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'dba69dc334143606a8e31909f53523f4') in 0.003296742 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=76156319d495b310eb6963be73352da7 DependenciesID=f8cd5aee13c409f5b55bde38486df62a StaticDependenciesID=5b6deaafb81bef7fca816cc427196ef7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.671784 seconds.
+  path: Assets/Tiles/MarioBloques_53.asset
+  importAddress: Guid(4d5135ac194fdcceabaf2d67692e5c77) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_53.asset using Guid(4d5135ac194fdcceabaf2d67692e5c77) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'dedc569c2a912a5e35dd6e63b1ecaafd') in 0.002814855 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=83248aee7306e1ca53a039b61eaa9279 DependenciesID=74c46decbd423ab211968166e8276f82 StaticDependenciesID=b68809481ff65cb0b4d9dbc56ab1c80d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.343601 seconds.
+  path: Assets/Tiles/MarioBloques_54.asset
+  importAddress: Guid(7bc99a424382c330da39682eeb8487e7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_54.asset using Guid(7bc99a424382c330da39682eeb8487e7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '590e60a018098c7dad8b4bee11ab6349') in 0.003056025 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=286cc3a36aa0b7367a917370db6861a6 DependenciesID=63e556954bb8f4ed79172feb1bdc661e StaticDependenciesID=7485aad44460eb9a86134abd418de200 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.653885 seconds.
+  path: Assets/Tiles/MarioBloques_55.asset
+  importAddress: Guid(085ca7779a5d25256a4bfce05e661ae8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_55.asset using Guid(085ca7779a5d25256a4bfce05e661ae8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2aac7e657754e52a7678a7b08a1cfbdf') in 0.004098608 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2d6f6405e5bab864597cb7729e25d0f2 DependenciesID=8d63860a1903e34da92ccd01289ec641 StaticDependenciesID=9eff14168f2b5a5ae64769c00fa1976e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.197073 seconds.
+  path: Assets/Tiles/MarioBloques_56.asset
+  importAddress: Guid(f720b9f8b4026083aa9ebab72c9c2fb7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_56.asset using Guid(f720b9f8b4026083aa9ebab72c9c2fb7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7e195df927d34c8ea3bf29a49772d5c3') in 0.002798895 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8be06a17c20cc10ee944fb408c887479 DependenciesID=164c6276c23f893f7201c7416a516694 StaticDependenciesID=5e5bb112c01bc2f666933184ebe356e2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.011271 seconds.
+  path: Assets/Tiles/MarioBloques_57.asset
+  importAddress: Guid(99004e57a3bc510e08bab4ae90a7774e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_57.asset using Guid(99004e57a3bc510e08bab4ae90a7774e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6f0a6b98c8616cf10c9882aded1fc1d0') in 0.003338559 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9f4c88323fc19e397c8472a72a129cf6 DependenciesID=61cc80c601d33784539daa4a6b7e7064 StaticDependenciesID=039f46b7d7e0ef6429ea2444ea4d5519 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.505875 seconds.
+  path: Assets/Tiles/MarioBloques_58.asset
+  importAddress: Guid(ffcd08d1ce322f2cba6a6144ad5a5119) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_58.asset using Guid(ffcd08d1ce322f2cba6a6144ad5a5119) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fed9da29c38d144bf7ac88988be7da8e') in 0.003060188 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f2bf4b298968670de9b4e47bc6fd692b DependenciesID=94c1555ef6715e23ececc3cf4b8aecd6 StaticDependenciesID=2e8241d290bdeb91d642591bfd8a3ef8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.508612 seconds.
+  path: Assets/Tiles/MarioBloques_59.asset
+  importAddress: Guid(dd51330a4306e0ac490251ec4097ed92) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_59.asset using Guid(dd51330a4306e0ac490251ec4097ed92) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '0bf41051c0030085e737c68c7d911192') in 0.003253288 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a26a880975c48ae2719e470a07a3189 DependenciesID=8c8455c259e6219ea17b03060cb52110 StaticDependenciesID=4196fed78dd98f7e5204e0cc35e3390f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.496012 seconds.
+  path: Assets/Tiles/MarioBloques_60.asset
+  importAddress: Guid(10682e84661c4281fa0b5fe3999576ea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_60.asset using Guid(10682e84661c4281fa0b5fe3999576ea) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '770035ecc448c9c84090049c3e738146') in 0.002632245 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0e43974004ecf67142611755a524d16b DependenciesID=2383d95e296b4fca0be1f084976bfb5c StaticDependenciesID=59eb3eb58ba46e827392f575e737189f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.436125 seconds.
+  path: Assets/Tiles/MarioBloques_61.asset
+  importAddress: Guid(fa8aef4f3296ba6acb93d8f329d9058c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_61.asset using Guid(fa8aef4f3296ba6acb93d8f329d9058c) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ba20bb354066f714487142d74896842c') in 0.002833485 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8e73a1f49446f0e428995c63e749927f DependenciesID=6169590d8a85669ec21e134a10bafe89 StaticDependenciesID=f28a54920a5dd2d8f31361b0cdea3457 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 243.738572 seconds.
+  path: Assets/Tiles/BloquesMario.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '562d00129529e779084b304a945dea47') in 0.027329546 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c524942877683dfa623dbe5bfc8c9760 DependenciesID=3b9b1230925820b8f614a109c17579c5 StaticDependenciesID=4ac5c3e7afc036eb457361f68e0579a7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 79
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123540 seconds.
+  path: Assets/Tiles/MarioBloques_17.asset
+  importAddress: Guid(3221b97e1cd18d70b8a0463456839e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_17.asset using Guid(3221b97e1cd18d70b8a0463456839e96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7dfa55aa3e95aeaad547a0d51f8f0107') in 0.009303376 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=459aab2691b20da3b4fdaf6062966ff3 DependenciesID=23a9315b2aadd07d8bfe8aafa051d627 StaticDependenciesID=83ac2c419c34085f0139b58698c58d25 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000119 seconds.
+  path: Assets/Tiles/MarioBloques_44.asset
+  importAddress: Guid(b743b966c1e3a539c9be19bb7219ab2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_44.asset using Guid(b743b966c1e3a539c9be19bb7219ab2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '103794c8e77ad81cfbbd6fa4c1402989') in 0.016094531 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d2a543116d0940c272dd0925184cc40b DependenciesID=db3e67cd5225f87b8e6fd400a79f95e1 StaticDependenciesID=59bc6c24a481356118040d04e27c29b6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000110 seconds.
+  path: Assets/Tiles/MarioBloques_53.asset
+  importAddress: Guid(4d5135ac194fdcceabaf2d67692e5c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_53.asset using Guid(4d5135ac194fdcceabaf2d67692e5c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3afc9240fc80ac92f66c6ffb023d176b') in 0.012131095 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=db49b52744c9a2f9f5778975749b9cf6 DependenciesID=c8c2fc06bfd98c9ac3231a83420d6d3c StaticDependenciesID=ec805751edcc9f0e895e375f0c04e8f5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Tiles/MarioBloques_34.asset
+  importAddress: Guid(3c4c22276a9b64abe8c303b60f796fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_34.asset using Guid(3c4c22276a9b64abe8c303b60f796fe8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'f2372e779f32ef5344ac0abe39fa6fa9') in 0.01430953 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=849a9788909606f55b81791c3fc22a99 DependenciesID=496cb5a53c8cf41c4ee07a2d6fc0ce46 StaticDependenciesID=c66961c5ef5bb276da496134d70e29f6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/Tiles/MarioBloques_33.asset
+  importAddress: Guid(2d806412ed114d18b81917114eb79099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_33.asset using Guid(2d806412ed114d18b81917114eb79099) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '567313185547d965f39c48509a28854d') in 0.008581093 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e2380a19425a3a4ae7f65ecab6f7dc03 DependenciesID=69702184d4ad0dbb4db104172c6d7716 StaticDependenciesID=e9ec031acf6b0a3ffe85995f751d8b73 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Tiles/MarioBloques_38.asset
+  importAddress: Guid(92180bfb3d7079e6c96c5b0771120968) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_38.asset using Guid(92180bfb3d7079e6c96c5b0771120968) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '83e283dabe043c3074b0212cef501790') in 0.008159434 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=8bd8bb0a7c1560c0678ac1be446d7a30 DependenciesID=56903ebd1781eb130d77afc6f712dbba StaticDependenciesID=5ad694f9475339d24cf388b94c4210c4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Tiles/MarioBloques_58.asset
+  importAddress: Guid(ffcd08d1ce322f2cba6a6144ad5a5119) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_58.asset using Guid(ffcd08d1ce322f2cba6a6144ad5a5119) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bb5237c2f3c9be01ee5bc2693383d8da') in 0.009329525 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=60f4e3b2de4d7e38c840409e61bc2c26 DependenciesID=0b9ee86a8cd298f5d48f7da478f007cd StaticDependenciesID=239933eba49753cf1b52c409fe3b0d77 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Tiles/MarioBloques_61.asset
+  importAddress: Guid(fa8aef4f3296ba6acb93d8f329d9058c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_61.asset using Guid(fa8aef4f3296ba6acb93d8f329d9058c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c11292e2ad0764c2c23e22720e067b8c') in 0.008619047 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e8de7bf87021a7a272718f3ab639e89d DependenciesID=f5466709f00b5dbf6bd7e6afb7992918 StaticDependenciesID=78fe262025d5dd5deb3bd1257b2f9a69 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000067 seconds.
+  path: Assets/Tiles/MarioBloques_42.asset
+  importAddress: Guid(a10a6f27a55620e789c7aa30d2513d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_42.asset using Guid(a10a6f27a55620e789c7aa30d2513d6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '8d9637acb119d26e02601e6505b60fda') in 0.008108087 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1ad933522f8ab3609aa6e20338eb2d65 DependenciesID=bc66872ce0290e9c1670cf1f0590dbc1 StaticDependenciesID=e5deb2d65583bc9b17cceb9930d510c5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000087 seconds.
+  path: Assets/Tiles/MarioBloques_60.asset
+  importAddress: Guid(10682e84661c4281fa0b5fe3999576ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_60.asset using Guid(10682e84661c4281fa0b5fe3999576ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '93f860880639d698093a041e8286347c') in 0.012041714 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=304ce1f61c70b53047918c55cd9a7bd2 DependenciesID=1212daff13dad470b282320b9d8c0510 StaticDependenciesID=a92e2ab1ad9c5d9a2566ac774c61b1bc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Tiles/MarioBloques_36.asset
+  importAddress: Guid(32b92de6a75d4d7c299ca7451ed10b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_36.asset using Guid(32b92de6a75d4d7c299ca7451ed10b08) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7b8cc1e817e5fb853e0abcb0dd40bb83') in 0.012698582 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d9ecf9050360b2837c8c4437231d35df DependenciesID=512560cd935259a4b7018430f113b0e3 StaticDependenciesID=a371ffebb7a274da979aed3890fe23a1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Tiles/MarioBloques_48.asset
+  importAddress: Guid(4380401de724f58f4b06c2a157fa6444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_48.asset using Guid(4380401de724f58f4b06c2a157fa6444) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2cc885452540de8216107dcc061922e3') in 0.009331941 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ce15425d9abaf5f6328b718d032c0c1f DependenciesID=5258003ccee62009463ce823a1091221 StaticDependenciesID=5c0f1e672d8f8d394449276ca5a8bd94 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Tiles/MarioBloques_56.asset
+  importAddress: Guid(f720b9f8b4026083aa9ebab72c9c2fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_56.asset using Guid(f720b9f8b4026083aa9ebab72c9c2fb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'b7af1052884e68786497481de16ace79') in 0.01083409 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aa0314e658fc0ac104fe007a3e823150 DependenciesID=a4e14ab1c95d5c0cf6da1fac67276cf6 StaticDependenciesID=ef29d890ac3da6f76d14a05d9a51e0fb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/Tiles/MarioBloques_41.asset
+  importAddress: Guid(e6f79075973a459e29eb95669382574e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_41.asset using Guid(e6f79075973a459e29eb95669382574e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '24e4dac7c9391b02331a5eb9a60f3f07') in 0.0109127 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=78df2e429a523136cd9322f8ed9a6e00 DependenciesID=bd3cccf2604d74c59daaf3431eaf74cb StaticDependenciesID=41c8f331bad8ff4caeceb8c8423de91f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000102 seconds.
+  path: Assets/Tiles/MarioBloques_54.asset
+  importAddress: Guid(7bc99a424382c330da39682eeb8487e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_54.asset using Guid(7bc99a424382c330da39682eeb8487e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '4389709e528c2eb326e2f5a2ff50ac5a') in 0.009931495 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c66e27db400b68092a38a39586634694 DependenciesID=e2c80280ba1f1a172d584dfcf44a9674 StaticDependenciesID=7d51c024b68b7a12176208897a2cb797 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000081 seconds.
+  path: Assets/Tiles/MarioBloques_32.asset
+  importAddress: Guid(ed6d91779987ccbe18cee1dd7f7c24e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/MarioBloques_32.asset using Guid(ed6d91779987ccbe18cee1dd7f7c24e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '3b84d0ce1c8de845911ed7dcc2e8eb7e') in 0.007387761 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a0b43d3128a863b29f31bd6cd5449311 DependenciesID=9bc78b01533156a192f3b16496e42edc StaticDependenciesID=48f42a0e5c076a58f24ac57065886e8f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.530222 seconds.
+  path: Assets/Tiles/BloquesMario2.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario2.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c2d3c6d04441577cda6a34f84a6fd687') in 0.026301278 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=c524942877683dfa623dbe5bfc8c9760 DependenciesID=7ae68c32e5868205f8e7e9c22e022e0c StaticDependenciesID=b4bec376acfba81575d6165e473eadab 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 79
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.649364 seconds.
+  path: Assets/Tiles/BloquesMario2.prefab
+  importAddress: Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario2.prefab using Guid(a5ba900c9d9e5a0f3aa98f24dad4f3fc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '5f7d595d9488eb023b0355dd304ef1e9') in 0.019649796 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0f5e27dd8ed57ac9e9442af0c799b038 DependenciesID=ef916db54ddc4deb9c39063564ab029d StaticDependenciesID=38be58f2ec5b7b2ac099ddbfc01205c6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.355994 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a98d659885df81ff7d523bbd6693c5f6') in 0.00965585 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7357e946a8b5292435e6d4b7fb9c58b4 DependenciesID=357c6d35467566c2b63c4deb5da425ad StaticDependenciesID=1471093836239844010e86b06768cd77 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.146660 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '612889b19f00a3e68a8c922a5e15ac4e') in 0.013130216 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=78cd24cec247a2e33257e797245b9c9c DependenciesID=5f8f9a2f8084ce78ade83f988fb6d09c StaticDependenciesID=de1e9df818ee7a614131ed529dd4ffb0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 104.268182 seconds.
+  path: Assets/Tiles/BloquesMario
+  importAddress: Guid(a1c8229828cd4befb93eebbd6a8ed214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario using Guid(a1c8229828cd4befb93eebbd6a8ed214) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '7d5172ffe8f8f64fe59c0c13ee7f82c5') in 0.001133808 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6a78e1289ff3627f33bbb58326dffdae DependenciesID=6fb4eec230268d24a92206210aa1e254 StaticDependenciesID=a322eb8cfdfaee5515e2d931af611465 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.416884 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ac9dc1fe2a54b65e1ee1f0048e772252') in 0.027159246 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9fb179e0d84cf6f5ffed5d59bf1864da DependenciesID=7d95a9fedd7c17300af300cf66d723c5 StaticDependenciesID=24690cce4b2b055911d2aed82093ec42 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 79
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.098574 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e009cc3ba047c549caf82bde21e1549d') in 0.006118168 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3bd4d3660339f95fd551aa740bed9233 DependenciesID=9d7904856fe5d1f3f1337970570a64d3 StaticDependenciesID=29c310536f9bda83341589546beb6af9 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 20.177959 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '986d59e5d14d9236204ff65278ec1feb') in 0.005910636 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e7a7b1d50099e30f4f2cb5ad581e3dfd DependenciesID=eb6a2026dc28a2d0d865d2c61a0e047e StaticDependenciesID=e60ffd4f0f6bbbd5a7b1e27fea33ec50 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.960782 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1e62f06774a741650672aa3c6a524355') in 0.007818313 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=54a4c3b0d867521ac842cc86dbdc45e6 DependenciesID=af5f19ea94c0735c0fe2197a91b922c3 StaticDependenciesID=d20fb3dbf8d1d79264fae9ce1fa1f9d1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 79.857470 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '24f8d83c249e200118dcab8088a6da0b') in 0.006121788 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3153a79f6fb130ed2c24c64ba0ddff8b DependenciesID=843481be044f5d210c1f1fc35772ec7e StaticDependenciesID=65d4f725a21331cd3874488ffa973633 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 1196.156707 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7ab07abc287142d91b8b1ada43247d7f') in 0.002665037 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=63e496029db4d371d78488e0ca3de3d6 DependenciesID=bb8822ae18e3ea310612fc1817e58453 StaticDependenciesID=0d6b970399f0d851511e99c604d7194f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 117.805823 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'cd2711783e4b997ac798e538e70a4afe') in 0.002789884 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a0ead3ab85ebe6b941f8e9ce1dd9932c DependenciesID=1108ba2b8a72ba85c412eceff659c677 StaticDependenciesID=eb7944d83d71e8b3e95da721fa1cf44c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.409201 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1b81e9ceecd0bd89d50adb6f71582f55') in 0.00367006 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6006ca59a80dfde580a7a6d49c3e6caf DependenciesID=49cbc5533d84470c6baea787b97fa25d StaticDependenciesID=336a7b28c1791fb92926182d840ccd2e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.432205 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '99cd9bc263aa3d8456894dd0cfca9916') in 0.003642739 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3a296e6fe8ceee40fe500dfebd3dffdc DependenciesID=3d152029bf53f36016ac720f67953bdb StaticDependenciesID=f4ff21e9ceab427855d86161a7d19a15 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 36.844967 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a6f0dda8f3a97356066ccabc87f0a733') in 0.004538823 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=64d002e5826fae98bdd69612a05c50ec DependenciesID=6ddf3c0200c83431a9178545a58a9208 StaticDependenciesID=4a664cfbcdcfdb6b0e407c31a4ab977e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 15
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.639906 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'bfce94d83c9dbeef66a38323e62011b8') in 0.006191441 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=606013ee1367f807e08c0db4c74a2460 DependenciesID=a2979062d2c0c1b78be4a06171388dcf StaticDependenciesID=f8a8eb4be9f572e0ac1d453b810c9b60 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.636015 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'd3c471b2f589599bb1dcaa3780e7875b') in 0.004505985 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=83c3123f37c90185665831b9494e768f DependenciesID=a15b98d4039d4fcc2e5e3eea2ea51500 StaticDependenciesID=70a7f559783c54ea9445d28d35dd256b 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 23
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.753801 seconds.
+  path: Assets/Tiles/BloquesMario/BloquesMario.prefab
+  importAddress: Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/BloquesMario/BloquesMario.prefab using Guid(6768a83812fda9be49897f7f1463ed05) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '84056ee6b921e41545fdf0a20e90933d') in 0.003893092 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d81adce4bf9e982fd316601c464bc5d8 DependenciesID=f9110eec6501808e002067729ece8f0f StaticDependenciesID=a40279e4d240e7c79c06086cac68dcde 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.167671 seconds.
+  path: Assets/Tiles/MarioBloques_100.asset
+  importAddress: Guid(ac85357d0a7ffd9f8aff0fb0c29b9e7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_100.asset using Guid(ac85357d0a7ffd9f8aff0fb0c29b9e7e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3030a50fb359f152c6a84b3fd9ae3f9f') in 0.003137886 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e91f9f067b538348aa4cc86c50f5d020 DependenciesID=c6a5ed5b5242dc5e4020f4e6701def9f StaticDependenciesID=04f0b4185f2cec13d1a675da4860ee24 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.202493 seconds.
+  path: Assets/Tiles/MarioBloques_101.asset
+  importAddress: Guid(ce9814031d88fb42cbdfa7d5c5a18fda) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_101.asset using Guid(ce9814031d88fb42cbdfa7d5c5a18fda) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '351d8a2b9506f83e470b2940348431fa') in 0.003022937 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=94fb212edfe6c02f1845611db8db8654 DependenciesID=864ff4ad30ca1f341a939719fa9d2500 StaticDependenciesID=6af36b8443683567dc29e99b4f1362d5 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.186854 seconds.
+  path: Assets/Tiles/MarioBloques_102.asset
+  importAddress: Guid(2482e9e332aa4c08ba7d807d0761435d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_102.asset using Guid(2482e9e332aa4c08ba7d807d0761435d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4dff9d4921c76ae228349f70d5707ed3') in 0.003245848 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=91c57748675dce5e841ee91d2a3f6662 DependenciesID=8ca489f1db6d5c293899050afacef1aa StaticDependenciesID=b073e12ca54ae6b09ee3b5b8c0bf1a4e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 350.306330 seconds.
+  path: Assets/Tiles/MarioBloques_116.asset
+  importAddress: Guid(f30e0d444b659942296e2ee4b1c7471b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_116.asset using Guid(f30e0d444b659942296e2ee4b1c7471b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e4f9c6f1e1f6336f773b2fe8027a36ea') in 0.003542864 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=25ad2e4f3d3aed796520e528a8140b96 DependenciesID=d3c738576a5a3b513a6211ab11d17a2e StaticDependenciesID=a6dad09d36c4fad8d8596f2b0e2cc2f0 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.166219 seconds.
+  path: Assets/Tiles/MarioBloques_115.asset
+  importAddress: Guid(0504ecf6677c577ccbb86db138f45656) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_115.asset using Guid(0504ecf6677c577ccbb86db138f45656) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fb50a78512847c485d80bff46747ddd5') in 0.002901038 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dd8f8efa5552ed518582d8563004187d DependenciesID=64e0925797e1bd742422b2537b1cb86b StaticDependenciesID=968db40f547e8cc03262b8e008bf33ee 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.178968 seconds.
+  path: Assets/Tiles/MarioBloques_117.asset
+  importAddress: Guid(0ea494de438cbea6190be5ef4a3a3a21) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Tiles/MarioBloques_117.asset using Guid(0ea494de438cbea6190be5ef4a3a3a21) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '79c56b9cec1a827b8cf70c76d1e0e8c4') in 0.003171998 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d9e42274ee1183a7105b6599a0fd1c7 DependenciesID=8e84f3ab99b50446c9924cc3d26ce02e StaticDependenciesID=285179c3b6f87d18a1fa3574b1688baa 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 22.470470 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '157f2072bb8a385d44e64ad209e69c0b') in 0.003104206 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e9d53e00cb313e82f53eb785b0f3eb82 DependenciesID=25fa9f49c08c7b6569bef73b10703c2a StaticDependenciesID=f047ef10c47a41f3c6bc52009ba811ee 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp.dll at Library/ScriptAssemblies/Assembly-CSharp.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.599 seconds
+Domain Reload Profiling: 1236ms
+	BeginReloadAssembly (176ms)
+		DisableScriptedObjects (20ms)
+		CreateAndSetChildDomain (59ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (383ms)
+		LoadAssemblies (232ms)
+		AnalyzeDomain (192ms)
+			TypeCache.Refresh (8ms)
+			BuildScriptInfoCaches (171ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (600ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (129ms)
+			ProcessInitializeOnLoadAttributes (226ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7018 unused Assets / (6.2 MB). Loaded Objects now: 7901.
+Memory consumption went from 193.1 MB to 187.0 MB.
+Total: 10.199783 ms (FindLiveObjects: 0.681988 ms CreateObjectMapping: 0.745933 ms MarkObjects: 6.089742 ms  DeleteObjects: 2.681060 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp.dll at Library/ScriptAssemblies/Assembly-CSharp.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.639 seconds
+Domain Reload Profiling: 1263ms
+	BeginReloadAssembly (138ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (409ms)
+		LoadAssemblies (229ms)
+		AnalyzeDomain (215ms)
+			TypeCache.Refresh (8ms)
+			BuildScriptInfoCaches (195ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (639ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (146ms)
+			ProcessInitializeOnLoadAttributes (228ms)
+			ProcessInitializeOnLoadMethodAttributes (89ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7018 unused Assets / (5.8 MB). Loaded Objects now: 7904.
+Memory consumption went from 193.1 MB to 187.4 MB.
+Total: 9.399682 ms (FindLiveObjects: 0.591545 ms CreateObjectMapping: 0.635542 ms MarkObjects: 5.758792 ms  DeleteObjects: 2.412668 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 288.827164 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '307560aea41345e1893bcb3c0d90d9f5') in 0.050265841 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=62e33ac1e6105401416ae1f7b7a8c50f DependenciesID=4bf6cea5a0e130f06bdc6a7d91639037 StaticDependenciesID=44135dfaedefd578a80499e975f1aa52 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.293974 seconds.
+  path: Assets/Images/mario_01.png
+  importAddress: Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/mario_01.png using Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '095aef01ca50181bef8decf7759f7707') in 0.181496659 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=94899c581058afcecdf364b817c0161a DependenciesID=e4d16cd58986f4a49d3265fc276dcc8e StaticDependenciesID=9f787c53f8195f6e1f9e70d9e4abd1fd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 90
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.691064 seconds.
+  path: Assets/Images/mario_01.png
+  importAddress: Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Images/mario_01.png using Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ae70ff7c3d8721982f6c55be1b478d0f') in 0.105270101 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=262d0df718fe8d2c4b7d8a690cb6ec44 DependenciesID=857db3ac3b226637b9591155fde224cf StaticDependenciesID=9d78ac8600f8ea47f0fb031d82d461b2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 90
+
+========================================================================
+Received Import Request.
+  Time since last request: 41.938730 seconds.
+  path: Assets/Images/mario_01.png
+  importAddress: Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Images/mario_01.png using Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd05b7e0510af1db50fbd725c89acd5bd') in 0.140605877 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=58236e796ff6844d2d38925891588310 DependenciesID=0ebb3a22e9f617e4849eade22e17ba46 StaticDependenciesID=0315901d4f2017a6bc51d1da58ef2ae7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 90
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.756946 seconds.
+  path: Assets/Images/mario_01.png
+  importAddress: Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Images/mario_01.png using Guid(de38f499d927a1c84971ee2cc7f5f6cf) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7dd6dd031a0633fde9cb5bf1ad3214f7') in 0.033012454 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=323b7993b79aaa967a6c47458aab188b DependenciesID=5ff5a68dc0fa8faa449ade0593b22233 StaticDependenciesID=b1ddf4ac20a76819bf77da03d7da2e3f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 90
+
+========================================================================
+Received Import Request.
+  Time since last request: 80.263717 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f8b95f786d1dd9b35d14e7b5be72a620') in 0.003385083 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2d2931e1c57be49fbba692d9121745d4 DependenciesID=70ddfb638838579f3c016949b054c6fc StaticDependenciesID=68e5f1e0623e09e885f69749385ce97f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 26.876751 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e065a5d8e9c88aec93b216b117f61fb9') in 0.004399153 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5e308b072dd351674c094486dde65764 DependenciesID=a9e93b259531aab8b68ad8fb1da772cf StaticDependenciesID=cb4edd6e3ed01622abfba642f48dd115 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp.dll at Library/ScriptAssemblies/Assembly-CSharp.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.621 seconds
+Domain Reload Profiling: 1212ms
+	BeginReloadAssembly (136ms)
+		DisableScriptedObjects (10ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (378ms)
+		LoadAssemblies (217ms)
+		AnalyzeDomain (193ms)
+			TypeCache.Refresh (9ms)
+			BuildScriptInfoCaches (173ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (621ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			BeforeProcessingInitializeOnLoad (126ms)
+			ProcessInitializeOnLoadAttributes (245ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7018 unused Assets / (5.8 MB). Loaded Objects now: 7965.
+Memory consumption went from 193.6 MB to 187.8 MB.
+Total: 10.078301 ms (FindLiveObjects: 0.720848 ms CreateObjectMapping: 0.779465 ms MarkObjects: 6.038783 ms  DeleteObjects: 2.537747 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 28.477573 seconds.
+  path: Assets
+  importAddress: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ba3d99d3e6455b7d738cc313a5658c64') in 0.001336014 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a7ba422695a8aa3da15a65ed13cf7f8c DependenciesID=aacbd2d46c4ccb757ffc405dc59c5e9b StaticDependenciesID=09d262387b384c67fbae9f36a9075c34 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.345058 seconds.
+  path: Assets/Scripts
+  importAddress: Guid(d732f89d5aa757a33a62e55a9fb8ec25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(d732f89d5aa757a33a62e55a9fb8ec25) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '05b43e4f0eece592abd7f9dfa2df5d4c') in 0.000545125 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d651c802a5844e84088dc9f3ce4a943e DependenciesID=ad5dd68418a1dee3a43866421d8e03ed StaticDependenciesID=f884e5d1678d3601f2de6124979f94d3 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.026342 seconds.
+  path: Assets/Scripts
+  importAddress: Guid(d732f89d5aa757a33a62e55a9fb8ec25) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts using Guid(d732f89d5aa757a33a62e55a9fb8ec25) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '38c9d66a37597f27ccc7f7290ccafd8e') in 0.039566658 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d1898de0671e9d063b7cb66525a41f06 DependenciesID=4900be141a60e43fbfac2145a3ece837 StaticDependenciesID=0ca6bcf285739997b07471de6e8f9cab 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
