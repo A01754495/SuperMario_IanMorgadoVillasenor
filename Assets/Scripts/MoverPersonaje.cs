@@ -1,4 +1,4 @@
-using UnityEditor.Callbacks;
+//using UnityEditor.Callbacks;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -7,37 +7,48 @@ public class MoverPersonaje : MonoBehaviour
     [SerializeField]
     private InputAction accionMover;
 
+    [SerializeField]
+    private InputAction accionSaltar;
+
     private float velocidadX = 5f;
+    private float velocidadY = 7.5f;
     private Rigidbody2D rb;
+
+    //private EstadoPersonaje estado;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        
+        accionMover.Enable();
+        rb = GetComponent<Rigidbody2D>();
     }
 
     void OnEnable()
     {
-        accionMover.Enable();
-        accionMover.performed += mover;
+        accionSaltar.Enable();
+        accionSaltar.performed += saltar;
     }
 
     void OnDisable()
     {
-        accionMover.Disable();
-        accionMover.performed -= mover;
+        accionSaltar.Disable();
+        accionSaltar.performed -= saltar;
     }
 
-    public void mover(InputAction.CallbackContext context)
+    public void saltar(InputAction.CallbackContext context)
     {
-        rb = GetComponent<Rigidbody2D>();
-        Vector2 movimiento = accionMover.ReadValue<Vector2>();
-        rb.linearVelocityX = movimiento.x * velocidadX;
+        EstadoPersonaje estado = GetComponentInChildren<EstadoPersonaje>();
+        float salto = accionSaltar.ReadValue<float>();
+        if (estado.estaEnPiso)
+        {
+            rb.linearVelocityY = salto * velocidadY;
+        }
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        Vector2 movimiento = accionMover.ReadValue<Vector2>();
+        rb.linearVelocityX = movimiento.x * velocidadX;
     }
 }
