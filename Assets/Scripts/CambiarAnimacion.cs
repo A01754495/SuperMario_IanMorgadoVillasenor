@@ -7,6 +7,7 @@ public class CambiarAnimacion : MonoBehaviour
     private Rigidbody2D rb;
     private SpriteRenderer sr;
     private EstadoPersonaje estado;
+    private EstadoVivo vivo;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -15,6 +16,7 @@ public class CambiarAnimacion : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         sr = GetComponent<SpriteRenderer>();
         estado = GetComponentInChildren<EstadoPersonaje>();
+        vivo = GetComponentInChildren<EstadoVivo>();
     }
 
     // Update is called once per frame
@@ -33,5 +35,8 @@ public class CambiarAnimacion : MonoBehaviour
 
         // Manejar animación de salto
         animator.SetBool("enPiso", estado.estaEnPiso);
+
+        // Manejar animación de muerte
+        animator.SetBool("vivo", vivo.estadoVivo);
     }
 }

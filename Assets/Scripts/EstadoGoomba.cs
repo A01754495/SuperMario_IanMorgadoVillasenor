@@ -7,12 +7,12 @@ public class EstadoGoomba : MonoBehaviour
     void OnTriggerEnter2D(Collider2D collision)
     {
         tocaPared = true;
-        print(tocaPared);
+        //print(tocaPared);
     }
 
     void OnTriggerExit2D(Collider2D collision)
     {
         tocaPared = false;
-        print(tocaPared);
+        //print(tocaPared);
     }
 }
