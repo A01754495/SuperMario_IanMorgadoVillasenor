@@ -1850,6 +1850,7 @@ GameObject:
   - component: {fileID: 778866312}
   - component: {fileID: 778866311}
   - component: {fileID: 778866310}
+  - component: {fileID: 778866314}
   m_Layer: 0
   m_Name: mario_01_6
   m_TagString: Untagged
@@ -1977,7 +1978,7 @@ SpriteRenderer:
   m_GlobalIlluminationMeshLod: 0
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 0
+  m_SortingOrder: 1
   m_MaskInteraction: 0
   m_Sprite: {fileID: -8671041149980859496, guid: de38f499d927a1c84971ee2cc7f5f6cf, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -2004,6 +2005,67 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &778866314
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 778866309}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f80f50958ee491929b1189c917ff61d7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoverPersonaje
+  accionMover:
+    m_Name: Accion Mover
+    m_Type: 0
+    m_ExpectedControlType: 
+    m_Id: c36a7b53-32a4-4a62-b28a-3318a57d3a4b
+    m_Processors: 
+    m_Interactions: 
+    m_SingletonActionBindings:
+    - m_Name: 2D Vector
+      m_Id: f5ec4a31-d3d6-4eae-b9f9-1b58f50144d3
+      m_Path: 2DVector
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Accion Mover
+      m_Flags: 4
+    - m_Name: up
+      m_Id: 00c1c41b-cc87-4f3f-a26b-8640a5a266b0
+      m_Path: 
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Accion Mover
+      m_Flags: 8
+    - m_Name: down
+      m_Id: 626e93e3-3a4b-4435-ac20-9d1f639d4c95
+      m_Path: 
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Accion Mover
+      m_Flags: 8
+    - m_Name: left
+      m_Id: 9af2bd76-0b42-4fc9-b535-a4fa9ba5119a
+      m_Path: <Keyboard>/leftArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Accion Mover
+      m_Flags: 8
+    - m_Name: right
+      m_Id: d7328079-a17c-4767-b591-97a499dcd50c
+      m_Path: <Keyboard>/rightArrow
+      m_Interactions: 
+      m_Processors: 
+      m_Groups: 
+      m_Action: Accion Mover
+      m_Flags: 8
+    m_Flags: 0
 --- !u!1 &861358458
 GameObject:
   m_ObjectHideFlags: 0
