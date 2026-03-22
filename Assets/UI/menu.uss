@@ -24,6 +24,10 @@
     bottom: auto;
     border-top-width: 0;
     transform-origin: center;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
 }
 
 .botones {
@@ -42,6 +46,12 @@
     top: 3%;
     min-height: 0%;
     max-height: 80%;
+    visibility: visible;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    display: none;
 }
 
 .autor {
@@ -88,4 +98,11 @@
     color: rgba(27, 27, 27, 0.31);
     transition-duration: 0.05s;
     transition-timing-function: ease-in-out-sine;
+}
+
+.menu-ayuda {
+    visibility: visible;
+    width: 400%;
+    height: 200%;
+    display: none;
 }

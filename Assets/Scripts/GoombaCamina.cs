@@ -1,3 +1,7 @@
+/*
+    Ian Morgado Villaseñor (A01754495)
+*/
+
 using UnityEngine;
 using UnityEngine.Rendering;
 

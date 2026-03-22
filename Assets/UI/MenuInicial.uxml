@@ -2,10 +2,14 @@
     <Style src="project://database/Assets/UI/menu.uss?fileID=7433441132597879392&amp;guid=197a98540b5c96233aab89fb4243159c&amp;type=3#menu"/>
     <ui:VisualElement name="Menu" class="menu" style="flex-grow: 1;">
         <ui:Label text="Tarea Unity" name="Titulo" class="titulo"/>
-        <ui:VisualElement name="Botones" class="botones" style="flex-grow: 1;">
+        <ui:VisualElement name="Botones" enabled="true" class="botones" style="flex-grow: 1; display: flex;">
             <ui:Button text="Jugar" name="BotonJugar" class="boton-juego"/>
             <ui:Button text="Ayuda" name="BotonAyuda" class="boton-juego"/>
             <ui:Button text="Créditos" name="BotonCreditos" class="boton-juego"/>
+        </ui:VisualElement>
+        <ui:VisualElement name="MenuAyuda" class="botones" style="flex-grow: 1; display: none; visibility: visible;">
+            <ui:Button text="" name="VolverBotones" style="color: rgba(255, 255, 255, 0); background-color: rgba(188, 188, 188, 0); border-left-color: rgba(149, 149, 149, 0); border-right-color: rgba(149, 149, 149, 0); border-top-color: rgba(149, 149, 149, 0); border-bottom-color: rgba(149, 149, 149, 0); align-self: flex-end; border-right-width: 1px; border-top-width: 1px; background-image: url(&quot;project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/white%20icon/close.png?fileID=2800000&amp;guid=7ed175332bcd6bb4e9f2b8e2833d8c29&amp;type=3#close&quot;); width: 30px; height: 30px; right: 30px; top: 30px;"/>
+            <ui:Label text="What is Lorem Ipsum?&#10;&#10;Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&apos;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum." enable-rich-text="true" name="Ayuda" style="white-space: normal; font-size: 40px; -unity-text-align: upper-center;"/>
         </ui:VisualElement>
         <ui:Label text="Ian Morgado Villaseñor (A01754495)" name="Autor" class="autor"/>
     </ui:VisualElement>

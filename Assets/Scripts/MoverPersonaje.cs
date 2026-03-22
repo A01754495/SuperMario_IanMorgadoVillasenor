@@ -1,5 +1,10 @@
+/*
+    Ian Morgado Villaseñor (A01754495)
+*/
+
 //using UnityEditor.Callbacks;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.InputSystem;
 
 public class MoverPersonaje : MonoBehaviour
@@ -67,6 +72,11 @@ public class MoverPersonaje : MonoBehaviour
             if (timerMuerte < 0.3f)
             {
                 rb.linearVelocityY = 3;
+            }
+
+            if (timerMuerte > 2.0f)
+            {
+                SceneManager.LoadScene("MenuInicial");
             }
         }
     }
