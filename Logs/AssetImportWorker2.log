@@ -19335,3 +19335,1198 @@ Memory consumption went from 194.1 MB to 188.1 MB.
 Total: 10.944508 ms (FindLiveObjects: 0.823982 ms CreateObjectMapping: 1.107695 ms MarkObjects: 5.972657 ms  DeleteObjects: 3.038970 ms)
 
 Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 90.337848 seconds.
+  path: Assets/Scripts/MoverPersonaje.cs
+  importAddress: Guid(f80f50958ee491929b1189c917ff61d7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/MoverPersonaje.cs using Guid(f80f50958ee491929b1189c917ff61d7) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '146bfc166f817874160504108b28c02f') in 0.057736089 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=67485b779c384d6be2b2bfe86e6bba2a DependenciesID=45d2bb8838c89965deb59c13c086a33a StaticDependenciesID=cb0ef68482fde6ddeede5d6ade31b9e7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026210 seconds.
+  path: Assets/Scripts/MoverGoomba.cs
+  importAddress: Guid(1d1053f2ae14af439b156032ee113eb4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/MoverGoomba.cs using Guid(1d1053f2ae14af439b156032ee113eb4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b3f63feffafb1714b90af1ce684108ab') in 0.002939539 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6270891bcd6d39a5c6d6065acb61a37f DependenciesID=536367e4d75931f7dc1328f1ad056f1a StaticDependenciesID=07d9397f0b0e0768cadd21c4cb0c266e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Low.png
+  importAddress: Guid(96a3f3d3ec9c0fd42a302cdb1277d582) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Low.png using Guid(96a3f3d3ec9c0fd42a302cdb1277d582) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '19cbcc5a817f663b59069a6becf42ce5') in 0.064321272 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9b473d4aed5a2ce41d761016ea9ffd4a DependenciesID=2dddebbf866f480ffb65f2d694b01384 StaticDependenciesID=167dd260c4512fefaf870c09b5e31c59 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/info.png
+  importAddress: Guid(f2aac4ef6d6db5047a49a7fdf446e47d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/info.png using Guid(f2aac4ef6d6db5047a49a7fdf446e47d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fc03b5a95698fc8e07cea540348aa9d4') in 0.005849513 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f7d7177d4dbe620203f12c483063f958 DependenciesID=484bdd31764a64bbf6442899bca338b7 StaticDependenciesID=6ee8a3ef85d8bc2723f4107c595cb1fc 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Leader-board.png
+  importAddress: Guid(de20b2ee85cc765449f4f3026e004d2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Leader-board.png using Guid(de20b2ee85cc765449f4f3026e004d2b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '646494d0c1c70c4cbdf165125a6c2848') in 0.008175717 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d8e17f4a8d5709dc44c15fe5c3627ce DependenciesID=b08197ada770938ad3e4e9747ae66fda StaticDependenciesID=34833749d560dc8589709dd850e98b7e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/zoom-in.png
+  importAddress: Guid(e49c1c4fb17bbf54f8c033a37f290187) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/zoom-in.png using Guid(e49c1c4fb17bbf54f8c033a37f290187) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9ae9df2f5fe82e2586cbcf70d3eca59e') in 0.007462824 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=138721a4a5f3477cc451d8f00f8189a0 DependenciesID=03a0e1fefccee6ae71a464a9a6bdea90 StaticDependenciesID=e9d8de073f1ecb8e448bd33e3b1751ac 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/skip.png
+  importAddress: Guid(c107910cb25c55c488ddd4c215e1467a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/skip.png using Guid(c107910cb25c55c488ddd4c215e1467a) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'af7e230a809dfb51df0f8b1a3f7d7f6e') in 0.005944844 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=079f4b24673f476f643147205472d0b9 DependenciesID=2ca3ea377d877b87034f75fdbe3c47db StaticDependenciesID=923b4347419a5f9a6a0788f752b34617 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/shop.png
+  importAddress: Guid(0723c1d1eca10e5479f15c0bd6f740d4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/shop.png using Guid(0723c1d1eca10e5479f15c0bd6f740d4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'dfaea2d1d24a216e93f7d23e1f1900de') in 0.00658007 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e16beed484666ac3b97ee2dca6774b7a DependenciesID=3741f39fa05729c5c339be3cca957118 StaticDependenciesID=5fb82d7c7b49a8b936dcd9837163f07f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/edit.png
+  importAddress: Guid(c535166b6eb189a42934d3b45a283edc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/edit.png using Guid(c535166b6eb189a42934d3b45a283edc) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a53c1a30846d82c0d633bcaf0fbb2516') in 0.008077681 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d43e564e43fea5a56e2d90afc448c8d8 DependenciesID=7a31c097efd5cfb576e501af48ff9431 StaticDependenciesID=b50f2d8ea1a5e1e1823d4e9e06f02f29 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Scripts/EstadoVivo.cs
+  importAddress: Guid(2e6a34205e522f1da9ab47c43d49f4df) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/EstadoVivo.cs using Guid(2e6a34205e522f1da9ab47c43d49f4df) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1bf3e0ad7c74095c023af434980a0c62') in 0.002082386 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3712a6e257de2c624bb44391248b5e3e DependenciesID=0b0b5da09c7fe2bc804b2e4a4589d14e StaticDependenciesID=1a2fbae22c21a3541dc78a15be070713 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Hard.png
+  importAddress: Guid(f69278ad5b410734ab2e4da811427581) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Hard.png using Guid(f69278ad5b410734ab2e4da811427581) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '8082d0b57c8908ea193f6019949ffd23') in 0.007354986 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=549f97c195b0ba375ccceb000d32c075 DependenciesID=40412b1ba96785cea4dda21acbd740ba StaticDependenciesID=9470e4c21877c2d607d1889f36dd3e72 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/empty-heart.png
+  importAddress: Guid(02a599c5d48bb3944a0f818455756f47) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/empty-heart.png using Guid(02a599c5d48bb3944a0f818455756f47) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7a86ab822e07b228e4470b65bddf61b6') in 0.005690693 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7571a8f212d1279c036911243b27d089 DependenciesID=f7a5b3077a395f737f9931583c3d5728 StaticDependenciesID=913ba53919cbce27f95bd6b88811b67f 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/chat.png
+  importAddress: Guid(9a478bbb18e6c4944a306ba5014d6be4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/chat.png using Guid(9a478bbb18e6c4944a306ba5014d6be4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '84ad2cddfee66c76be424e67c53e5692') in 0.005803662 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=a78ec37ecbe3a63933263991a6fcf79b DependenciesID=bf60a5328d84160b58773841684c5f57 StaticDependenciesID=98aa33a0ca0a55c45dd47d80b7d3181c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/heart.png
+  importAddress: Guid(006d0c4a09753c54f977fd75437e61c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/heart.png using Guid(006d0c4a09753c54f977fd75437e61c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '326fa2df679cc20e072616aa26182145') in 0.006168578 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=11d26e83041f1e30ef64c46283beee59 DependenciesID=a318379a88b31ffc24d24c21d66f3307 StaticDependenciesID=254299bceb5d6dad422cae95fe6c0159 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Scripts/EstadoGoomba.cs
+  importAddress: Guid(0682ff6e5d1d2d193a676327f4751b0e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/EstadoGoomba.cs using Guid(0682ff6e5d1d2d193a676327f4751b0e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6858e54c3763b0979d18ce0ae98898d9') in 0.002118511 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2c638c6bc40e1587f57c855645c857dd DependenciesID=1826b0ddd75cbabaa4470580d429badc StaticDependenciesID=ded1192dc79e040c192609f5987d7e2d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/UI/MenuInicial.uxml
+  importAddress: Guid(89df6dd4693516a7e8eed466761bd275) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/MenuInicial.uxml using Guid(89df6dd4693516a7e8eed466761bd275) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'fea0c47f51b0902bf0cd5846da8da829') in 0.07223281 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=7909f493fcfea517a8555a538579f4a0 DependenciesID=f96d58014d8500947e5b3bcf1f972c90 StaticDependenciesID=f1ec6e19e4d82b1b5e95b33d1b501ad7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/right-1.png
+  importAddress: Guid(21ddc1e6a86a26744a0bc6b6b0e75603) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/right-1.png using Guid(21ddc1e6a86a26744a0bc6b6b0e75603) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2a2e34cf1cdd20e138772acd3ccffcea') in 0.006886698 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f77bac0364ae442330ac3ee90ad1849b DependenciesID=b7e8873cd7bfce8640281c4d10479f22 StaticDependenciesID=c9f3c05824dabe948f9c3fd9011ce377 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/backward.png
+  importAddress: Guid(5eaa31bbabe574d4a9e1d8e058a57b68) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/backward.png using Guid(5eaa31bbabe574d4a9e1d8e058a57b68) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f48c9596b6b530d281a12155d6c2f9f0') in 0.00591691 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3c5d3706ff92d34274050da4cff09851 DependenciesID=73ca8418d8499796d86542a064f78295 StaticDependenciesID=e6b2c5781a8bbb6b5fa6b1fe3899021d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/offer.png
+  importAddress: Guid(05e9675cea92f4b489008c1f0094eb3d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/offer.png using Guid(05e9675cea92f4b489008c1f0094eb3d) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '351242863842e9b1c7e4783a3838ccaa') in 0.007026591 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=bdf2513d041c49f3b44e1d816663f9cc DependenciesID=2103d0196da7be2ac9a1ca33028d73ab StaticDependenciesID=faf546a5e4030cd333abd56084259064 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/8.png
+  importAddress: Guid(265b459afbb59c64f8dd1325695b3550) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/8.png using Guid(265b459afbb59c64f8dd1325695b3550) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '66ba49ffa2396af8ba4c8e8759abc64e') in 0.007304252 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=52dac38049f87ae8e215526ba165aa0b DependenciesID=44925c47b5275ea67d82862ef99905ba StaticDependenciesID=0ebdb9edab41565bae38247922fc5505 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/minus.png
+  importAddress: Guid(50344647e671c0941be69f1dd91b5a83) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/minus.png using Guid(50344647e671c0941be69f1dd91b5a83) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '15a19b479d2286874f5a46e5ccc44ca7') in 0.006271498 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5286ec69effadce3f89effa10755c3db DependenciesID=dc30f83f9bc08f0fe330f8af545bf0bc StaticDependenciesID=de6046da0ab676065ab39d5b2a52e9de 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/share-with-people.png
+  importAddress: Guid(4a87a8133589bab458462953c80a2c6f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/share-with-people.png using Guid(4a87a8133589bab458462953c80a2c6f) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '420d4e70224b9edf556cb42c371ee591') in 0.006454515 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6684143c8b74ace06af2fe1a46c65867 DependenciesID=b7880e12cab05610ff8b537347fcd785 StaticDependenciesID=cfe31fa64e47b9be3044376bc7b2f010 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/cart.png
+  importAddress: Guid(f24fdc14b3918824a88b0ce0640b3cb1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/cart.png using Guid(f24fdc14b3918824a88b0ce0640b3cb1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b89b10006a5a68958b7d62a77b1e013e') in 0.005962446 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e4cbe84053cb4524deb1311832fa241a DependenciesID=a4b50ebac6d8b32dc2421f758d5f9cc6 StaticDependenciesID=5b42c73b28e49c28613301d06c63699c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/zoom-out.png
+  importAddress: Guid(b48c971b503b14a4daf6a6e05b7ec3c5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/zoom-out.png using Guid(b48c971b503b14a4daf6a6e05b7ec3c5) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'db13ac22b9e420b643c827384b6fe389') in 0.007777214 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6d6e73b5f1cf65c6b6f83669db0a4015 DependenciesID=21067146bb9bc1e4a7c56533d4defc45 StaticDependenciesID=11359cbf6f1ff5c5818def7d11e396dd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Hint.png
+  importAddress: Guid(e992f52aa703ef944bf54bf52841a8d1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Hint.png using Guid(e992f52aa703ef944bf54bf52841a8d1) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f573a0b73a6c8c9cb2c1eedbabc898af') in 0.00563678 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=b7d54f7f8aa3fc185fae9c3486dbfff1 DependenciesID=2d1b167762037a19469d6b93afe528ee StaticDependenciesID=9133922c305f0b520f47d5187a4caba4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/sound-off.png
+  importAddress: Guid(64025896f4f7bb64ea9634e50e9ab2ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/sound-off.png using Guid(64025896f4f7bb64ea9634e50e9ab2ca) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2c3cc171a78f7c7ffb7bd7bb82fb2871') in 0.005781162 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=99da87319ca0ed5c54c9fed6a0b9437e DependenciesID=ea38833ccd0016dbc1b6e3e92523c168 StaticDependenciesID=95cd45c4a0961de8f8259260a2c42b40 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/music.png
+  importAddress: Guid(5762925ce54f66c4fa2103ff9e825cc4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/music.png using Guid(5762925ce54f66c4fa2103ff9e825cc4) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '50d63f443f6f105cbaf5a69e63c515ae') in 0.005720441 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1349cc087f7a49208d16b5dd6e4807b9 DependenciesID=0af7dce7e52ef07cf101100745fbd061 StaticDependenciesID=a17a15e57a58f7304c5ea27cb1f23be8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/redeem.png
+  importAddress: Guid(d8362d809288e2e46bf9702a7831b146) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/redeem.png using Guid(d8362d809288e2e46bf9702a7831b146) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ab42d7f41e0da5512357181efbe73494') in 0.005957099 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=5bf771ecde1e1e1b7fe8fbad42303375 DependenciesID=3bf3ce1e7a0a595d370cac51b47d3f25 StaticDependenciesID=f56151f42fb3743a3b405b24ed0e1dc6 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/close.png
+  importAddress: Guid(7ed175332bcd6bb4e9f2b8e2833d8c29) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/close.png using Guid(7ed175332bcd6bb4e9f2b8e2833d8c29) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4c9bb0d2d7989e0ac89050b7b5de1a73') in 0.006608558 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ce5ab2f8fe88bd06917c5f4cf80dbe9d DependenciesID=dbb5a87c05822e4a07143316ee0e9915 StaticDependenciesID=40150184c7d1e3b71b1086f42fd0fec1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/6.png
+  importAddress: Guid(30a17887cbb36ec4ca2c0ee2dc7ccf2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/6.png using Guid(30a17887cbb36ec4ca2c0ee2dc7ccf2e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'c36dc05fe0443db436423dc8cd5e4691') in 0.006036954 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1d0d2792851296c70c7ecaf52af92485 DependenciesID=7840ade68deffe3cbab7f7c3a7eebcd2 StaticDependenciesID=9a9603e2677d407841af3c17cc731dc7 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/1.png
+  importAddress: Guid(bf8c593624f41444fb27fa3e3f38b56e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/1.png using Guid(bf8c593624f41444fb27fa3e3f38b56e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '84ae1844be1bd1d25ec819ec7b667852') in 0.006183279 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=2039d182def5a8bdc316ab4bc9628845 DependenciesID=ed875435d482067a8f820491b0bd5ff1 StaticDependenciesID=92de1454baf8df81584a36172cb21175 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/forward.png
+  importAddress: Guid(831b74a03a91c494eb62ecd302e17455) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/forward.png using Guid(831b74a03a91c494eb62ecd302e17455) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'ee4402afacb6d8d0fcc2cfcf12f138da') in 0.005839395 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=58ed1b0f52d86b5bd814c9d3b2b8d21c DependenciesID=1c3463d22fd30d2fc766bd3c11df1aa7 StaticDependenciesID=f049073b9c07e0beee3ff60b30a9bd1c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/quetion.png
+  importAddress: Guid(e9446413670fcc6439fa2f69f41b73d8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/quetion.png using Guid(e9446413670fcc6439fa2f69f41b73d8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '1fe216fcee44efc3da87d3fba8e1c44e') in 0.007271504 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d1505b8551bb3909f199c972e7e0df9a DependenciesID=042010be74c8aff0b0eeddc0716c57de StaticDependenciesID=bde813be98f27f989ce691cbc16975bb 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Achive.png
+  importAddress: Guid(f1cb9699716f75d4da0f1dc4b3bf5706) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Achive.png using Guid(f1cb9699716f75d4da0f1dc4b3bf5706) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '3dd6cb5e552d22a980e6a205c4054e00') in 0.005921963 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=699794729b9fc3831f1a73f5a22022e4 DependenciesID=f27c1690645e12c3356c3a5cbd159fe0 StaticDependenciesID=6d7966a7a906c920d2720dc2e54230d4 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/9.png
+  importAddress: Guid(073e19d75865165418681c6562d49930) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/9.png using Guid(073e19d75865165418681c6562d49930) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6bd0e2e1798c23b292d07d7cd12a42dd') in 0.006338753 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=aa2a94504abcbc3fa7259875b9b9093a DependenciesID=748365b6ade119e73143d05fa3d78f88 StaticDependenciesID=ecbf07b30a96667fdc992f733517390c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/normal-screen.png
+  importAddress: Guid(450ec442d93db564195baab231fe8746) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/normal-screen.png using Guid(450ec442d93db564195baab231fe8746) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '7c7a325dd9481b2a85458be3a3763ea3') in 0.006071424 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=859823ccfe7fe17813716c9ee6813179 DependenciesID=6ac0c442054c46ed601580bad9ec2fbb StaticDependenciesID=b43df4dd58edf7453a91086f62dd5a86 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/mission.png
+  importAddress: Guid(957fec9b7d9127740a4c434097fb1f52) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/mission.png using Guid(957fec9b7d9127740a4c434097fb1f52) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '39236a959130ab9114398401f100ff27') in 0.009558551 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=45a29274084f5f2c33a26ec62df637e7 DependenciesID=0055a7f8b4d7f76f23d83f059327f990 StaticDependenciesID=1dc05882d99611046dd4845d3342a735 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/4.png
+  importAddress: Guid(8fbabaa0f5b27b34dad0711a457a41b8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/4.png using Guid(8fbabaa0f5b27b34dad0711a457a41b8) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'd5049ed467f84e23ba3b3d3d9615f5fe') in 0.008967285 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=28225c861233941f826b4c1e09c227c4 DependenciesID=686c2042024348464a5f423fef7c5cff StaticDependenciesID=d10743e68bc3f8d57e17fff59d465bf8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/lock.png
+  importAddress: Guid(36d809388bd243a40938c438f5733397) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/lock.png using Guid(36d809388bd243a40938c438f5733397) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'b571e792e5fb9591dc5e2f8835817ced') in 0.005693639 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=51aca26e150db031c66df951618aebde DependenciesID=8b65d7f2393df190055e51f20a14b975 StaticDependenciesID=cdb5ada2d3548b587ca9f153fae9f04a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Pause.png
+  importAddress: Guid(29dbc505522f5e84eae2f6dd7a3205c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Pause.png using Guid(29dbc505522f5e84eae2f6dd7a3205c2) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '6f0b87e3b9210b83a8c014ffc8e35a15') in 0.005695624 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a089d3fb9d920d0825b027052be0b0f DependenciesID=b9050e76c21ffecdbdffd2ee78ec6dd5 StaticDependenciesID=e449ee69e8b7d58ea7a5d1897acfe688 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Plus.png
+  importAddress: Guid(f2d9297d2f2eeeb43b76525b58f072da) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Saurabh_Studio/UI button and hallowing element pack 5/white icon/Plus.png using Guid(f2d9297d2f2eeeb43b76525b58f072da) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e2cbf51628b484cd10541e034c50e556') in 0.005677359 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=d0eaeba6226a9d73673d554fa4d13b75 DependenciesID=a3325c3a36de1ffabe864f8ea3650a68 StaticDependenciesID=073aaafdeb5b6cfa87c6682b0d303c74 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.834471 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'ce9306c781652ba22795866b7980b273') in 0.017717943 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=965230546275b52ec67de298a74044d1 StaticDependenciesID=fee6ac8fdec5a150c99293272f3b5132 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.484438 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '4890d631db1065e811c60247eff2945d') in 0.003517566 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=1fc602d7a9a3917120b788519c206674 DependenciesID=7c1eddad6596c606ad9291c3149321b7 StaticDependenciesID=ebcaa58e95622325f669003812edbb8e 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.106125 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '2c45d8533472b21179ed83703e56c794') in 0.003981958 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=218cba047de4d33c4874531302ca1479 DependenciesID=cea362cbe5c396cba0afc85aa757848d StaticDependenciesID=d47eb2bf4920960f7634dcb1f7649d9d 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 78.226496 seconds.
+  path: Assets/UI/menuRegresar.uss
+  importAddress: Guid(f46fc8dcce5e09c16ac7feebcb026624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/menuRegresar.uss using Guid(f46fc8dcce5e09c16ac7feebcb026624) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'afebe030bf75cc784a16ebfae95e4df5') in 0.001314461 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0d020569e78f44248b87e4fdb553ad3f DependenciesID=86e98e8237559fb54639448bcc812e20 StaticDependenciesID=a2686b7e43b263fa9f1cc18d0bba8162 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.687668 seconds.
+  path: Assets/UI/menuRegresar.uss
+  importAddress: Guid(f46fc8dcce5e09c16ac7feebcb026624) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/menuRegresar.uss using Guid(f46fc8dcce5e09c16ac7feebcb026624) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'a512729339932168bf7942de8bc0c087') in 0.004636172 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f075393010bc6da3fb503ba383f7a889 DependenciesID=470c796286f601bc9d5d69c840216230 StaticDependenciesID=fc36e062c2d877e6faac73af79330fc8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.063954 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a5915f41b4657f5871f637cbc943db85') in 0.001534844 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=91064fda62f7b689a7f68be5db2d8ada StaticDependenciesID=0615d19f381ea3d24c532907441c1418 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.061364 seconds.
+  path: Assets/UI/menuRegresar.uss
+  importAddress: Guid(f46fc8dcce5e09c16ac7feebcb026624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/menuRegresar.uss using Guid(f46fc8dcce5e09c16ac7feebcb026624) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '2e147b7e6187f9164840fdf6c8ef3ad9') in 0.001205471 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=0d020569e78f44248b87e4fdb553ad3f DependenciesID=55090dd36be3ea36e277c92f8531e650 StaticDependenciesID=fb57e2e6aa3b09b3613d54103104b609 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.603872 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '9d09d5dd3d9e6703e5843c65edc407a2') in 0.00357788 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=ed86a8259718de4118be87b806d76723 DependenciesID=c78aed9c9a788eb48522e4ebf19a17c1 StaticDependenciesID=2de1353fe1d3039c503c6869f9aba8b8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.326736 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '06bc5cec2af31d551f924854da378d47') in 0.002347881 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=5248d3a0a62629138fb6e32bdbe69019 StaticDependenciesID=d55fd683ae65f1b083fbcad52cae8ec8 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.772334 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '009619f5c675713eccc7b859b20ecac5') in 0.004675277 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=6450d431648a7220f406188cb1b4ecf0 DependenciesID=32a21fb65221784cf9470b2a1d0df746 StaticDependenciesID=90b4bd3147225b34ac6bc2cc941a3849 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.380922 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '27c90f09f6dc62aef569e60dc50a7e9a') in 0.002774328 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=1a2e3cbe0b8ae982463b45a2939f7330 StaticDependenciesID=c6b2e1c11af8146d7fa95ac9567242c1 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.682708 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '93f2c356e051d01e08fc77003054212a') in 0.003614937 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=dfc200a05ff439754924fba30e5f8a6a DependenciesID=5c778a4787359661ec50c6d028e6ed4c StaticDependenciesID=356d7708c112228bd423ed98b6084c67 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 186.614053 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a0d629ace8b9df6763685df5822aea00') in 0.0026204 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=ad8ac8470133d18b3325d6c507090ae3 StaticDependenciesID=6e54287d8f4ea27122cf98ba62502681 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.855940 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '89e58ec7cf196b9a24479af1924788da') in 0.005486898 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=488d48350582bdd4fedfa17e26908608 DependenciesID=911409c2c3953fdcda5fdef0ed0afe5f StaticDependenciesID=0f9e898831b35fb51630b042da27526a 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.722660 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'd9433101ad64e83aad912b0fb3025625') in 0.001881688 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=ec8e73e3deec5b17518a1f5dcfc9a0eb StaticDependenciesID=6811308f497a96d12adc8dc3e1e34945 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.796373 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'e78aa7c9d3c530c396dd1ba4db882e3a') in 0.004182892 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=e7ce598d05d020095d8a12729a3a5d97 DependenciesID=3e510aa23944522ceece8b90c677a785 StaticDependenciesID=7037b2ec9b96b0f679a4b3d8652836aa 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.335229 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'bf78dff50640700d4d0b8ee883f46e14') in 0.001744649 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=8e8acd2fe638deb922546b976b962006 StaticDependenciesID=9d9dcaba47b88fc87dbe0f4324623b5c 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.780804 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '95896705f534428ed9276c2cb3cc50fa') in 0.003930934 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3aab5271ad9aed7cdf9bbbfc1c9f5e3a DependenciesID=d436d7f07a76eec5760f2fb1c699d2dc StaticDependenciesID=74bd5b301c7d14ee00699b476613bc40 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.364409 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'a058df7d4c63fd362054af52cc00067e') in 0.001939142 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=764fd781d93e552303040237f4142170 DependenciesID=16c7ed5247184811202b977be2003617 StaticDependenciesID=22f205fed77c6026bbe6c47fdc048184 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.782887 seconds.
+  path: Assets/UI/BotonRegresar.uxml
+  importAddress: Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/UI/BotonRegresar.uxml using Guid(19dfb76d47b20ef138eb4b7f63c4762b) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f439f4930afb84054b622313d623cac1') in 0.003985853 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=f6f88d8be73c596ac0bbdf4c185c1375 DependenciesID=c2a41dd45ea697aedab81231b1306a37 StaticDependenciesID=bbd8509f48bc3a89af484b8807867c82 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.604 seconds
+Domain Reload Profiling: 1215ms
+	BeginReloadAssembly (143ms)
+		DisableScriptedObjects (10ms)
+		CreateAndSetChildDomain (50ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (388ms)
+		LoadAssemblies (215ms)
+		AnalyzeDomain (205ms)
+			TypeCache.Refresh (9ms)
+			BuildScriptInfoCaches (185ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (604ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (123ms)
+			ProcessInitializeOnLoadAttributes (231ms)
+			ProcessInitializeOnLoadMethodAttributes (76ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7026 unused Assets / (6.1 MB). Loaded Objects now: 7898.
+Memory consumption went from 194.3 MB to 188.3 MB.
+Total: 10.432878 ms (FindLiveObjects: 0.748114 ms CreateObjectMapping: 0.691806 ms MarkObjects: 6.292896 ms  DeleteObjects: 2.698847 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.609 seconds
+Domain Reload Profiling: 1242ms
+	BeginReloadAssembly (138ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (416ms)
+		LoadAssemblies (222ms)
+		AnalyzeDomain (216ms)
+			TypeCache.Refresh (8ms)
+			BuildScriptInfoCaches (198ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (609ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (129ms)
+			ProcessInitializeOnLoadAttributes (234ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7026 unused Assets / (5.7 MB). Loaded Objects now: 7901.
+Memory consumption went from 194.4 MB to 188.7 MB.
+Total: 9.922873 ms (FindLiveObjects: 0.754989 ms CreateObjectMapping: 0.656670 ms MarkObjects: 5.695861 ms  DeleteObjects: 2.814372 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 54.877550 seconds.
+  path: Assets/Scenes/PrimerPantalla.unity
+  importAddress: Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scenes/PrimerPantalla.unity using Guid(8044f281a3c8c0fc1a77fe1bae580d1e) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: 'f69706a97540050917edb007691b891a') in 0.043721346 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=cdd525c9bb46b4231f202aa8de535a41 DependenciesID=58af70704fe0f5d52166fea9eabedb30 StaticDependenciesID=6835947a9367459f932cbb559415fabd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Prepare
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7017 unused Assets / (5.9 MB). Loaded Objects now: 7902.
+Memory consumption went from 194.7 MB to 188.8 MB.
+Total: 10.983109 ms (FindLiveObjects: 0.610333 ms CreateObjectMapping: 0.736011 ms MarkObjects: 6.114706 ms  DeleteObjects: 3.520789 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 5.891669 seconds.
+  path: Assets/Scripts/BotonRegresar.cs
+  importAddress: Guid(4164bfd8593fedf1aba20bb4a89fabcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BotonRegresar.cs using Guid(4164bfd8593fedf1aba20bb4a89fabcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: '17b21162f5a015ad467580831e536e0c') in 0.000896236 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=820506aa2fa96c223defdbbd9472d670 DependenciesID=eaf24a29dd17c2d5dfda2a4404acc13c StaticDependenciesID=34f0f7208e853a59b956eddbe92a2539 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.311548 seconds.
+  path: Assets/Scripts/BotonRegresar.cs
+  importAddress: Guid(4164bfd8593fedf1aba20bb4a89fabcd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d)
+Start importing Assets/Scripts/BotonRegresar.cs using Guid(4164bfd8593fedf1aba20bb4a89fabcd) Importer(2089858483,b0f066a214c2f5e87bad3c948f4d605d) (ScriptedImporter) -> (Import Result ID: '60a93da2c2b308567ce700181f4bd37a') in 0.013923694 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=3be5e01b5759dd0871adb22c6629dbb9 DependenciesID=e2c9ab4c3fdc5625d7a2ff39864b4fcb StaticDependenciesID=87bf1b0264eecd63c0738decae4fa905 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.606 seconds
+Domain Reload Profiling: 1217ms
+	BeginReloadAssembly (147ms)
+		DisableScriptedObjects (12ms)
+		CreateAndSetChildDomain (51ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (387ms)
+		LoadAssemblies (217ms)
+		AnalyzeDomain (197ms)
+			TypeCache.Refresh (11ms)
+			BuildScriptInfoCaches (175ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (607ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (129ms)
+			ProcessInitializeOnLoadAttributes (232ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (12ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7027 unused Assets / (6.3 MB). Loaded Objects now: 7905.
+Memory consumption went from 194.6 MB to 188.3 MB.
+Total: 10.083693 ms (FindLiveObjects: 0.694526 ms CreateObjectMapping: 0.716312 ms MarkObjects: 5.648736 ms  DeleteObjects: 3.022716 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.656 seconds
+Domain Reload Profiling: 1327ms
+	BeginReloadAssembly (155ms)
+		DisableScriptedObjects (12ms)
+		CreateAndSetChildDomain (48ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (38ms)
+	LoadAllAssembliesAndSetupDomain (436ms)
+		LoadAssemblies (250ms)
+		AnalyzeDomain (221ms)
+			TypeCache.Refresh (12ms)
+			BuildScriptInfoCaches (198ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (657ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (247ms)
+			ProcessInitializeOnLoadMethodAttributes (81ms)
+			AfterProcessingInitializeOnLoad (5ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7027 unused Assets / (5.8 MB). Loaded Objects now: 7908.
+Memory consumption went from 194.7 MB to 188.9 MB.
+Total: 9.582626 ms (FindLiveObjects: 0.673810 ms CreateObjectMapping: 0.647128 ms MarkObjects: 5.631053 ms  DeleteObjects: 2.629519 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7017 unused Assets / (6.3 MB). Loaded Objects now: 7908.
+Memory consumption went from 194.9 MB to 188.6 MB.
+Total: 13.535005 ms (FindLiveObjects: 0.827534 ms CreateObjectMapping: 0.891498 ms MarkObjects: 8.561928 ms  DeleteObjects: 3.252636 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+[Licensing::Client] Successfully resolved entitlement details
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.617 seconds
+Domain Reload Profiling: 1285ms
+	BeginReloadAssembly (142ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (45ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (443ms)
+		LoadAssemblies (229ms)
+		AnalyzeDomain (240ms)
+			TypeCache.Refresh (12ms)
+			BuildScriptInfoCaches (215ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (617ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (131ms)
+			ProcessInitializeOnLoadAttributes (232ms)
+			ProcessInitializeOnLoadMethodAttributes (70ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7027 unused Assets / (5.9 MB). Loaded Objects now: 7911.
+Memory consumption went from 194.9 MB to 189.0 MB.
+Total: 10.889666 ms (FindLiveObjects: 0.661451 ms CreateObjectMapping: 0.589485 ms MarkObjects: 6.150192 ms  DeleteObjects: 3.486121 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.609 seconds
+Domain Reload Profiling: 1260ms
+	BeginReloadAssembly (141ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (47ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (434ms)
+		LoadAssemblies (236ms)
+		AnalyzeDomain (231ms)
+			TypeCache.Refresh (15ms)
+			BuildScriptInfoCaches (201ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (609ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			BeforeProcessingInitializeOnLoad (126ms)
+			ProcessInitializeOnLoadAttributes (228ms)
+			ProcessInitializeOnLoadMethodAttributes (72ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (10ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7027 unused Assets / (5.9 MB). Loaded Objects now: 7914.
+Memory consumption went from 195.0 MB to 189.1 MB.
+Total: 10.568247 ms (FindLiveObjects: 0.726910 ms CreateObjectMapping: 0.779159 ms MarkObjects: 6.154356 ms  DeleteObjects: 2.906616 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.651 seconds
+Domain Reload Profiling: 1276ms
+	BeginReloadAssembly (140ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (408ms)
+		LoadAssemblies (220ms)
+		AnalyzeDomain (212ms)
+			TypeCache.Refresh (9ms)
+			BuildScriptInfoCaches (192ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (651ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (130ms)
+			ProcessInitializeOnLoadAttributes (255ms)
+			ProcessInitializeOnLoadMethodAttributes (84ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (13ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7027 unused Assets / (5.6 MB). Loaded Objects now: 7917.
+Memory consumption went from 195.1 MB to 189.5 MB.
+Total: 11.233464 ms (FindLiveObjects: 0.911142 ms CreateObjectMapping: 1.312470 ms MarkObjects: 6.090413 ms  DeleteObjects: 2.918110 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 301.114335 seconds.
+  path: Assets/Scripts/MoverPersonaje.cs
+  importAddress: Guid(f80f50958ee491929b1189c917ff61d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MoverPersonaje.cs using Guid(f80f50958ee491929b1189c917ff61d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'c476e5e523b0a9c773db9a272096d942') in 0.001498254 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=9a48bb690dd85f1aaf586acab061c7a1 DependenciesID=cff1e42cf509989731ae6c3798cfaf0d StaticDependenciesID=b4ad972e697570360476dcffe9628cdd 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.655269 seconds.
+  path: Assets/Scripts/BotonRegresar.cs
+  importAddress: Guid(4164bfd8593fedf1aba20bb4a89fabcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/BotonRegresar.cs using Guid(4164bfd8593fedf1aba20bb4a89fabcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (Import Result ID: 'e14404cfe83cf7648f0d88e18f5fb018') in 0.000489759 seconds [static and dynamic dependencies]. Details - ImportResultOutputID=820506aa2fa96c223defdbbd9472d670 DependenciesID=b977674312eb85225108024e04d6c246 StaticDependenciesID=d52a5ddf6e141b6e20a44b13a273eeb2 
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 0
+
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Assembly Assembly-CSharp-Editor-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-Editor.dll at Library/ScriptAssemblies/Assembly-CSharp-Editor.dll not valid. Loading of assembly skipped.
+Assembly Assembly-CSharp-firstpass.dll at Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll not valid. Loading of assembly skipped.
+Assembly DocCodeExamples.dll at Library/ScriptAssemblies/DocCodeExamples.dll not valid. Loading of assembly skipped.
+Assembly TestNewCustomAssembly.dll at Library/ScriptAssemblies/TestNewCustomAssembly.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Animation.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Animation.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Aseprite.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Aseprite.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Common.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Common.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Psdimporter.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Psdimporter.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Sprite.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Sprite.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.SpriteShape.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.SpriteShape.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.2D.Tilemap.Package.EditorTests.dll at Library/ScriptAssemblies/Unity.2D.Tilemap.Package.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.BurstCompatibilityGen.dll at Library/ScriptAssemblies/Unity.Collections.BurstCompatibilityGen.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.DocCodeSamples.dll at Library/ScriptAssemblies/Unity.Collections.DocCodeSamples.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.PerformanceTests.dll at Library/ScriptAssemblies/Unity.Collections.PerformanceTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.dll at Library/ScriptAssemblies/Unity.Collections.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Collections.Tests.Playmode.dll at Library/ScriptAssemblies/Unity.Collections.Tests.Playmode.dll not valid. Loading of assembly skipped.
+Assembly Unity.InputSystem.IntegrationTests.dll at Library/ScriptAssemblies/Unity.InputSystem.IntegrationTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Mathematics.Tests.dll at Library/ScriptAssemblies/Unity.Mathematics.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Editor.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Multiplayer.Center.Tests.dll at Library/ScriptAssemblies/Unity.Multiplayer.Center.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Nuget.Mono-Cecil.dll at Library/ScriptAssemblies/Unity.Nuget.Mono-Cecil.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.PathTracing.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.PathTracing.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Core.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Config.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Config.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Editor.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.RenderPipelines.Universal.Runtime.Tests.dll at Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Searcher.EditorTests.dll at Library/ScriptAssemblies/Unity.Searcher.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.ShaderGraph.Editor.Tests.dll at Library/ScriptAssemblies/Unity.ShaderGraph.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Sysroot.Linux_x86_64.EditorTests.dll at Library/ScriptAssemblies/Unity.Sysroot.Linux_x86_64.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Editor.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.TextMeshPro.Tests.dll at Library/ScriptAssemblies/Unity.TextMeshPro.Tests.dll not valid. Loading of assembly skipped.
+Assembly Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll at Library/ScriptAssemblies/Unity.Toolchain.Linux-x86_64-Linux.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly Unity.UnifiedRayTracing.Editor.Tests.dll at Library/ScriptAssemblies/Unity.UnifiedRayTracing.Editor.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.Common.Tests.dll at Library/ScriptAssemblies/UnityEditor.UI.Common.Tests.dll not valid. Loading of assembly skipped.
+Assembly UnityEditor.UI.EditorTests.dll at Library/ScriptAssemblies/UnityEditor.UI.EditorTests.dll not valid. Loading of assembly skipped.
+Assembly UnityEngine.UI.Tests.dll at Library/ScriptAssemblies/UnityEngine.UI.Tests.dll not valid. Loading of assembly skipped.
+Native extension for LinuxStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] Unable to send message (not connected to server process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+ScheduleIndexationOnStartup MainProcess:False IndexOnStartup:True
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.624 seconds
+Domain Reload Profiling: 1245ms
+	BeginReloadAssembly (139ms)
+		DisableScriptedObjects (11ms)
+		CreateAndSetChildDomain (46ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (8ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (401ms)
+		LoadAssemblies (226ms)
+		AnalyzeDomain (198ms)
+			TypeCache.Refresh (8ms)
+			BuildScriptInfoCaches (180ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (625ms)
+		SetupLoadedEditorAssemblies (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			BeforeProcessingInitializeOnLoad (134ms)
+			ProcessInitializeOnLoadAttributes (238ms)
+			ProcessInitializeOnLoadMethodAttributes (78ms)
+			AfterProcessingInitializeOnLoad (3ms)
+		AwakeInstancesAfterBackupRestoration (11ms)
+Unloading 24 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 7027 unused Assets / (6.0 MB). Loaded Objects now: 7920.
+Memory consumption went from 195.2 MB to 189.3 MB.
+Total: 10.444040 ms (FindLiveObjects: 0.773486 ms CreateObjectMapping: 0.744728 ms MarkObjects: 6.104019 ms  DeleteObjects: 2.820865 ms)
+
+Prepare: number of updated asset objects reloaded= 0

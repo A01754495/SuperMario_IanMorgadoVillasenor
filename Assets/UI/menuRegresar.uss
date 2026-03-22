@@ -1,0 +1,27 @@
+:root {
+}
+
+.menu {
+    justify-content: flex-start;
+    align-self: flex-start;
+}
+
+.boton {
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    width: auto;
+    height: auto;
+}
+
+.boton:hover {
+    width: auto;
+    height: auto;
+    scale: 1.2 1.2;
+    transition-duration: 0.1s;
+    transition-timing-function: ease-in-sine;
+}
+
+.boton:active {
+    -unity-background-image-tint-color: rgba(255, 255, 255, 0.31);
+    color: rgba(255, 255, 255, 0.77);
+}
