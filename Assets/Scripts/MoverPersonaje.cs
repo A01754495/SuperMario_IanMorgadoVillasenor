@@ -53,27 +53,21 @@ public class MoverPersonaje : MonoBehaviour
         Collider2D collider = GetComponent<Collider2D>();
         //SpriteRenderer sr = GetComponent<SpriteRenderer>();
 
+        // Desactiva movimiento y collider si detecta que Mario muere
         if (!(vivo.estadoVivo))
         {
             OnDisable();
             rb.linearVelocityX = 0;
             collider.enabled = false;
+
+            // Timer para aventarlo a arriba
             timerMuerte += Time.deltaTime;
 
-            //if (timer >= 0.1f)
-            //{
-            //    //sr.enabled = false;
-            //    Destroy(gameObject);
-            //}
-
+            // Lo avienta hacia arriba para simular la animación de muerte original
             if (timerMuerte < 0.3f)
             {
                 rb.linearVelocityY = 3;
             }
-            // else
-            // {
-            //     rb.linearVelocityY = -3;
-            // }
         }
     }
 
